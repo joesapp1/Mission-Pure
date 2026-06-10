@@ -1,0 +1,58 @@
+{
+  "Lead": {
+    "description": "Lead is a toxic metal that can leach into drinking water from plumbing materials, especially older service lines, solder, and fixtures.",
+    "whyAvoid": "Even low levels can harm brain development and learning in children and can contribute to high blood pressure and kidney problems in adults."
+  },
+  "Copper": {
+    "description": "Copper can enter drinking water when household plumbing corrodes, particularly in newer copper pipes or when water is acidic.",
+    "whyAvoid": "Higher exposure can cause stomach upset and, over time, may contribute to liver or kidney issues in sensitive individuals."
+  },
+  "Total Trihalomethanes (TTHMs)": {
+    "description": "TTHMs are a group of disinfection byproducts that can form when chlorine or other disinfectants react with natural organic matter in the source water.",
+    "whyAvoid": "Long-term exposure has been associated with increased cancer risk and potential effects on the liver and kidneys."
+  },
+  "Chloroform": {
+    "description": "Chloroform is one of the trihalomethanes that can form as a disinfection byproduct when drinking water is treated with chlorine.",
+    "whyAvoid": "Long-term exposure is linked with increased cancer risk and can stress the liver and kidneys."
+  },
+  "Bromodichloromethane": {
+    "description": "Bromodichloromethane is a trihalomethane disinfection byproduct formed when disinfectants react with organic material in water, especially when bromide is present.",
+    "whyAvoid": "Long-term exposure may increase cancer risk and may impact liver and kidney health."
+  },
+  "Dibromochloromethane": {
+    "description": "Dibromochloromethane is a trihalomethane formed as a disinfection byproduct during water treatment.",
+    "whyAvoid": "Long-term exposure may increase cancer risk and may contribute to liver and kidney effects."
+  },
+  "Bromoform": {
+    "description": "Bromoform is a trihalomethane that can form as a disinfection byproduct in chlorinated drinking water.",
+    "whyAvoid": "Long-term exposure may increase cancer risk and can add to overall disinfection byproduct burden."
+  },
+  "Total Haloacetic Acids (HAA5)": {
+    "description": "HAA5 are a group of haloacetic acids that form as disinfection byproducts when chlorine reacts with natural organic matter.",
+    "whyAvoid": "Long-term exposure has been associated with increased cancer risk and potential reproductive and developmental effects."
+  },
+  "Nitrate": {
+    "description": "Nitrate is an inorganic compound that can enter water from fertilizer runoff, animal waste, septic systems, or natural deposits.",
+    "whyAvoid": "High levels can reduce oxygen delivery in infants (\"blue baby\" syndrome) and may contribute to thyroid-related concerns."
+  },
+  "Nitrite": {
+    "description": "Nitrite is related to nitrate and can enter water through the same sources or form from nitrate conversion.",
+    "whyAvoid": "Elevated nitrite can interfere with oxygen transport in the blood, which is especially risky for infants and sensitive populations."
+  },
+  "Fluoride": {
+    "description": "Fluoride may be naturally present or added for dental health.",
+    "whyAvoid": "At higher exposures, fluoride can contribute to dental fluorosis and, in extreme cases, skeletal effects."
+  },
+  "Arsenic": {
+    "description": "Arsenic is a naturally occurring element that can dissolve into groundwater from certain rock formations.",
+    "whyAvoid": "Long-term exposure is associated with increased cancer risk and can affect the skin, cardiovascular system, and other organs."
+  },
+  "Turbidity": {
+    "description": "Turbidity measures how cloudy water is due to tiny particles. It is often used as an indicator of filtration and treatment effectiveness.",
+    "whyAvoid": "High turbidity can signal problems with treatment and can make it easier for microbes to persist in water."
+  },
+  "Total Coliform Bacteria": {
+    "description": "Total coliform are a group of bacteria used as an indicator to assess water system integrity and potential pathways for contamination.",
+    "whyAvoid": "Their presence can indicate a higher risk that disease-causing organisms could enter the water system, even if total coliform themselves are not usually harmful."
+  }
+}

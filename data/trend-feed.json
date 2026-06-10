@@ -1,0 +1,101 @@
+{
+  "generatedAt": "2026-06-09T23:31:03.662Z",
+  "property": "https://mission-pure.com",
+  "posts": [
+    {
+      "slug": "odor-smelly-tap-water",
+      "query": "smelly tap water",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0,
+      "topicId": "odor",
+      "title": "Stop rotten-egg tap water fast",
+      "intro": "Searches like \"smelly tap water\" jump whenever algae blooms or chloramine conversions stir up odors. Mission Pure isolates the utility behind the smell and filters it before it reaches North Texas showers.",
+      "bullets": [
+        "Run the Mission Pure ZIP lookup to confirm which utility feeds North Texas and whether hydrant flushing or algae blooms are elevating disinfection byproducts.",
+        "Whole-home catalytic carbon strips the compounds that cause odor and taste shifts across every faucet, laundry load, and shower.",
+        "Pair it with reverse osmosis so ice, bottles, and cooking water stay neutral even when the city is shocking mains."
+      ],
+      "ctaLabel": "Request odor filtration plan",
+      "ctaUrl": "whole-home-water-filtration.html",
+      "region": "North Texas"
+    },
+    {
+      "slug": "pfas-dallas-pfas-update",
+      "query": "dallas pfas update",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0,
+      "topicId": "pfas",
+      "title": "Chase PFAS down to single digits",
+      "intro": "EPA's 4 ppt PFAS targets are driving searches like \"dallas pfas update\" across North Texas. Mission Pure pairs catalytic carbon with RO to push results toward lab-detectable minimums.",
+      "bullets": [
+        "Whole-home catalytic carbon captures a broad mix of PFAS families before they circulate through showers and laundry.",
+        "Point-of-use reverse osmosis strips the smallest PFAS compounds so bottles, formula, and ice trend near non-detect.",
+        "Every install includes a sampling plan so you can document reductions for your household or HOA."
+      ],
+      "ctaLabel": "Design a PFAS game plan",
+      "ctaUrl": "under-sink-reverse-osmosis.html",
+      "region": "Dallas"
+    },
+    {
+      "slug": "boil-fort-worth-boil-notice",
+      "query": "fort worth boil notice",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0,
+      "topicId": "boil",
+      "title": "Stay ahead of boil notices",
+      "intro": "Queries like \"fort worth boil notice\" pop up as cities issue boil notices or repair mains. Mission Pure keeps drinking water safe while municipalities catch up.",
+      "bullets": [
+        "Whole-home systems add redundancy so showers and laundry continue without drawing contaminated water.",
+        "RO faucets provide bottled-water quality even when you're waiting for lab clearance.",
+        "Mission Pure handles communication with HOAs and documents the mitigation steps."
+      ],
+      "ctaLabel": "Build an outage backup plan",
+      "ctaUrl": "water-watch.html",
+      "region": "Fort Worth"
+    },
+    {
+      "slug": "hardness-plano-hard-water",
+      "query": "plano hard water",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0,
+      "topicId": "hardness",
+      "title": "Keep hardness from trashing fixtures",
+      "intro": "Collin and Denton county homeowners search \"plano hard water\" whenever NTMWD hardness creeps up. Mission Pure blends conditioning media with filtration so everything rinses clean.",
+      "bullets": [
+        "Point-of-entry conditioning stops scale inside tankless heaters, dishwashers, and shower glass.",
+        "Catalytic carbon tackles the taste issues that usually accompany hardness spikes.",
+        "Reverse osmosis ensures espresso machines and ice makers stay spotless."
+      ],
+      "ctaLabel": "Plan a hard water retrofit",
+      "ctaUrl": "whole-home-water-filtration.html#hardness",
+      "region": "Plano / Frisco"
+    },
+    {
+      "slug": "general-mission-pure-water-filter",
+      "query": "mission pure water filter",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0,
+      "topicId": "general",
+      "title": "Mission Pure tracks every contaminant trend",
+      "intro": "North Texas homeowners searching for \"mission pure water filter\" are usually comparing installers. Mission Pure couples real contaminant data with Puronics-backed installs so you only buy once.",
+      "bullets": [
+        "ZIP-based lookup reveals utilities, contaminant ratios, and the fastest install path.",
+        "Whole-home filtration plus RO covers shower steam, laundry, ice, and baby bottles in a single visit.",
+        "Our Water Watch feed and HOA briefings keep neighborhoods ahead of the next headline."
+      ],
+      "ctaLabel": "Talk to the install lead",
+      "ctaUrl": "contact.html",
+      "region": "North Texas"
+    }
+  ]
+}

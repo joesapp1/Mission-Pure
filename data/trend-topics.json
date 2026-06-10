@@ -1,0 +1,100 @@
+[
+  {
+    "id": "odor",
+    "label": "Tap water odor spike",
+    "keywords": ["odor", "smell", "stink", "musty", "sulfur", "rotten egg"],
+    "title": "Stop rotten-egg tap water fast",
+    "intro": "Searches like \"{{query}}\" jump whenever algae blooms or chloramine conversions stir up odors. Mission Pure isolates the utility behind the smell and filters it before it reaches {{cityOrRegion}} showers.",
+    "bullets": [
+      "Run the Mission Pure ZIP lookup to confirm which utility feeds {{cityOrRegion}} and whether hydrant flushing or algae blooms are elevating disinfection byproducts.",
+      "Whole-home catalytic carbon strips the compounds that cause odor and taste shifts across every faucet, laundry load, and shower.",
+      "Pair it with reverse osmosis so ice, bottles, and cooking water stay neutral even when the city is shocking mains."
+    ],
+    "ctaLabel": "Request odor filtration plan",
+    "ctaUrl": "whole-home-water-filtration.html"
+  },
+  {
+    "id": "chlorine",
+    "label": "Chlorine/chloramine taste",
+    "keywords": ["chlorine", "chloramine", "bleach", "pool", "chemical taste"],
+    "title": "Tone down chlorine taste before dinner",
+    "intro": "DWU, NTMWD, and Upper Trinity all tweak disinfectant levels seasonally. When searches for \"{{query}}\" spike, homeowners feel like they are drinking pool water.",
+    "bullets": [
+      "Catalytic carbon reduces aggressive chloramine blends before they hit fixtures and tankless heaters.",
+      "Mission Pure tunes media blends for the utility that serves {{cityOrRegion}}, so you keep disinfection protection without the bite.",
+      "Reverse osmosis polishes drinking water so coffee, tea, and ice taste clean regardless of city adjustments."
+    ],
+    "ctaLabel": "Dial in chloramine control",
+    "ctaUrl": "whole-home-water-filtration.html#chloramine"
+  },
+  {
+    "id": "pfas",
+    "label": "PFAS / forever chemicals",
+    "keywords": ["pfas", "pfoa", "pfos", "forever chemical"],
+    "title": "Chase PFAS down to single digits",
+    "intro": "EPA's 4 ppt PFAS targets are driving searches like \"{{query}}\" across North Texas. Mission Pure pairs catalytic carbon with RO to push results toward lab-detectable minimums.",
+    "bullets": [
+      "Whole-home catalytic carbon captures a broad mix of PFAS families before they circulate through showers and laundry.",
+      "Point-of-use reverse osmosis strips the smallest PFAS compounds so bottles, formula, and ice trend near non-detect.",
+      "Every install includes a sampling plan so you can document reductions for your household or HOA."
+    ],
+    "ctaLabel": "Design a PFAS game plan",
+    "ctaUrl": "under-sink-reverse-osmosis.html"
+  },
+  {
+    "id": "lead",
+    "label": "Lead, copper, brown water",
+    "keywords": ["lead", "copper", "brown water", "rust", "discolored"],
+    "title": "Shield faucets from lead & rust",
+    "intro": "Infrastructure projects and service-line replacements often trigger queries such as \"{{query}}\". Mission Pure routes water through certified media before it hits fixtures.",
+    "bullets": [
+      "We isolate galvanized or lead service lines and add point-of-entry filtration so the whole home stays protected while the city works.",
+      "Reverse osmosis keeps cooking and baby-bottle water clear even when distribution pipes shed rust.",
+      "Our install report documents plumbing conditions so HOAs and insurers see the mitigation path."
+    ],
+    "ctaLabel": "Protect against lead",
+    "ctaUrl": "service-areas.html#metroGrid"
+  },
+  {
+    "id": "hardness",
+    "label": "Hard water & scale",
+    "keywords": ["hard water", "scale", "white spots", "limescale", "water softener"],
+    "title": "Keep hardness from trashing fixtures",
+    "intro": "Collin and Denton county homeowners search \"{{query}}\" whenever NTMWD hardness creeps up. Mission Pure blends conditioning media with filtration so everything rinses clean.",
+    "bullets": [
+      "Point-of-entry conditioning stops scale inside tankless heaters, dishwashers, and shower glass.",
+      "Catalytic carbon tackles the taste issues that usually accompany hardness spikes.",
+      "Reverse osmosis ensures espresso machines and ice makers stay spotless."
+    ],
+    "ctaLabel": "Plan a hard water retrofit",
+    "ctaUrl": "whole-home-water-filtration.html#hardness"
+  },
+  {
+    "id": "boil",
+    "label": "Boil notices & outages",
+    "keywords": ["boil", "notice", "water outage", "low pressure"],
+    "title": "Stay ahead of boil notices",
+    "intro": "Queries like \"{{query}}\" pop up as cities issue boil notices or repair mains. Mission Pure keeps drinking water safe while municipalities catch up.",
+    "bullets": [
+      "Whole-home systems add redundancy so showers and laundry continue without drawing contaminated water.",
+      "RO faucets provide bottled-water quality even when you're waiting for lab clearance.",
+      "Mission Pure handles communication with HOAs and documents the mitigation steps."
+    ],
+    "ctaLabel": "Build an outage backup plan",
+    "ctaUrl": "water-watch.html"
+  },
+  {
+    "id": "general",
+    "label": "Mission Pure water intelligence",
+    "keywords": [],
+    "title": "Mission Pure tracks every contaminant trend",
+    "intro": "North Texas homeowners searching for \"{{query}}\" are usually comparing installers. Mission Pure couples real contaminant data with Puronics-backed installs so you only buy once.",
+    "bullets": [
+      "ZIP-based lookup reveals utilities, contaminant ratios, and the fastest install path.",
+      "Whole-home filtration plus RO covers shower steam, laundry, ice, and baby bottles in a single visit.",
+      "Our Water Watch feed and HOA briefings keep neighborhoods ahead of the next headline."
+    ],
+    "ctaLabel": "Talk to the install lead",
+    "ctaUrl": "contact.html"
+  }
+]
