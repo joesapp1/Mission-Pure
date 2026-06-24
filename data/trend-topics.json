@@ -1,0 +1,107 @@
+[
+  {
+    "id": "odor",
+    "label": "Tap water odor spike",
+    "keywords": ["odor", "smell", "stink", "musty", "sulfur", "rotten egg"],
+    "title": "Stop rotten-egg tap water fast",
+    "intro": "Searches like \"{{query}}\" jump whenever algae blooms or chloramine conversions stir up odors. Mission Pure isolates the utility behind the smell and filters it before it reaches {{cityOrRegion}} showers.",
+    "bullets": [
+      "Run the Mission Pure ZIP lookup to confirm which utility feeds {{cityOrRegion}} and whether hydrant flushing or algae blooms are elevating disinfection byproducts.",
+      "The Puronics DuoFresh\u2122 Plus iGen\u00ae whole-home system uses dual-tank catalytic carbon to strip odor-causing chloramine compounds and DBPs from every tap, shower, and laundry load \u2014 no interruption during regeneration.",
+      "Pair it with the Puronics Micromax\u2122 8500 under-sink RO so ice, bottles, and cooking water stay neutral even when the city is shocking mains.",
+      "Mission Pure installs and commissions the full Puronics system in a single visit \u2014 view the complete product lineup at products.html."
+    ],
+    "ctaLabel": "Request odor filtration plan",
+    "ctaUrl": "whole-home-water-filtration.html"
+  },
+  {
+    "id": "chlorine",
+    "label": "Chlorine/chloramine taste",
+    "keywords": ["chlorine", "chloramine", "bleach", "pool", "chemical taste"],
+    "title": "Tone down chlorine taste before dinner",
+    "intro": "DWU, NTMWD, and Upper Trinity all tweak disinfectant levels seasonally. When searches for \"{{query}}\" spike, homeowners feel like they are drinking pool water.",
+    "bullets": [
+      "The Puronics Terminator\u00ae iGen\u00ae C and Hydronex\u00ae iGen\u00ae C are chlorostatic whole-home systems built specifically for municipal water treated with chlorine or chloramine \u2014 exactly the issue driving searches in {{cityOrRegion}}.",
+      "Mission Pure tunes the Puronics catalytic carbon media blend to the utility that serves {{cityOrRegion}}, so you keep disinfection protection without the chemical bite at every fixture.",
+      "Add the Puronics Micromax\u2122 8500 five-stage RO under the kitchen sink so coffee, tea, and ice taste clean regardless of city seasonal adjustments.",
+      "See all Puronics chlorostatic systems available through Mission Pure at products.html."
+    ],
+    "ctaLabel": "Dial in chloramine control",
+    "ctaUrl": "products.html"
+  },
+  {
+    "id": "pfas",
+    "label": "PFAS / forever chemicals",
+    "keywords": ["pfas", "pfoa", "pfos", "forever chemical"],
+    "title": "Chase PFAS down to single digits",
+    "intro": "EPA's 4 ppt PFAS targets are driving searches like \"{{query}}\" across North Texas. Mission Pure pairs Puronics catalytic carbon with RO to push results toward lab-detectable minimums.",
+    "bullets": [
+      "The Puronics Micromax\u2122 8500 five-stage reverse osmosis system is Mission Pure\u2019s flagship PFAS solution \u2014 its high-rejection membrane strips PFAS, lead, chromium-6, and dissolved solids to near-zero levels at the drinking tap.",
+      "Whole-home Puronics chlorostatic systems (Terminator\u00ae iGen\u00ae C, Hydronex\u00ae iGen\u00ae C) capture a broad mix of PFAS families before they circulate through showers and laundry in {{cityOrRegion}}.",
+      "Every Mission Pure install includes a sampling plan so you can document PFAS reductions for your household, HOA, or insurer.",
+      "Review the full Puronics RO and whole-home lineup at products.html."
+    ],
+    "ctaLabel": "Design a PFAS game plan",
+    "ctaUrl": "products.html"
+  },
+  {
+    "id": "lead",
+    "label": "Lead, copper, brown water",
+    "keywords": ["lead", "copper", "brown water", "rust", "discolored"],
+    "title": "Shield faucets from lead & rust",
+    "intro": "Infrastructure projects and service-line replacements often trigger queries such as \"{{query}}\". Mission Pure routes {{cityOrRegion}} water through certified Puronics media before it hits any fixture.",
+    "bullets": [
+      "Point-of-entry Puronics whole-home systems (Filtramax\u00ae iGen\u00ae C, Defender\u2122 iGen\u00ae C) protect every tap while the city works on service lines \u2014 sized for {{cityOrRegion}} flow rates.",
+      "The Puronics Micromax\u2122 8500 RO keeps cooking water and baby bottles clear even when distribution pipes shed rust or during hydrant flushing events.",
+      "Our Mission Pure install report documents plumbing conditions and system performance so HOAs and insurers see the full mitigation path.",
+      "See Puronics problem-water and whole-home options at products.html."
+    ],
+    "ctaLabel": "Protect against lead",
+    "ctaUrl": "products.html"
+  },
+  {
+    "id": "hardness",
+    "label": "Hard water & scale",
+    "keywords": ["hard water", "scale", "white spots", "limescale", "water softener"],
+    "title": "Keep hardness from trashing fixtures",
+    "intro": "Collin and Denton county homeowners search \"{{query}}\" whenever NTMWD hardness creeps up. Mission Pure installs Puronics water softeners and salt-free conditioners sized for {{cityOrRegion}} homes.",
+    "bullets": [
+      "The Puronics Terminator\u00ae iGen\u00ae and Hydronex\u00ae iGen\u00ae are high-capacity ion-exchange softeners built for North Texas hard water \u2014 they eliminate scale in tankless heaters, dishwashers, and shower glass.",
+      "Prefer salt-free? The Puronics Clarius\u2122 iGen\u00ae series conditions hardness minerals without salt or drain lines, keeping beneficial minerals while preventing scale throughout the {{cityOrRegion}} home.",
+      "Pair any Puronics softener with the Micromax\u2122 8500 RO to keep espresso machines and ice makers spotless at zero hardness.",
+      "Compare Puronics softening and salt-free systems at products.html."
+    ],
+    "ctaLabel": "Plan a hard water retrofit",
+    "ctaUrl": "products.html"
+  },
+  {
+    "id": "boil",
+    "label": "Boil notices & outages",
+    "keywords": ["boil", "notice", "water outage", "low pressure"],
+    "title": "Stay ahead of boil notices",
+    "intro": "Queries like \"{{query}}\" pop up as cities issue boil notices or repair mains. Mission Pure keeps {{cityOrRegion}} drinking water safe while municipalities catch up.",
+    "bullets": [
+      "Puronics bacteriostatic systems (Terminator\u00ae iGen\u00ae B, Hydronex\u00ae iGen\u00ae B) use SilverShield\u00ae technology to inhibit bacterial growth inside the treatment tank \u2014 critical protection during main breaks and boil events.",
+      "The Puronics Micromax\u2122 8500 five-stage RO at the kitchen sink provides bottled-water quality even when you\u2019re waiting for lab clearance from the utility.",
+      "Mission Pure monitors Water Watch alerts for {{cityOrRegion}} and notifies customers when boil notices or pressure drops are reported.",
+      "See Puronics bacteriostatic and whole-home systems at products.html."
+    ],
+    "ctaLabel": "Build an outage backup plan",
+    "ctaUrl": "products.html"
+  },
+  {
+    "id": "general",
+    "label": "Mission Pure water intelligence",
+    "keywords": [],
+    "title": "Mission Pure tracks every contaminant trend",
+    "intro": "North Texas homeowners searching for \"{{query}}\" are usually comparing installers. Mission Pure couples real contaminant data with factory-certified Puronics installs so you only buy once.",
+    "bullets": [
+      "ZIP-based lookup reveals the utilities, contaminant ratios, and the fastest Puronics system install path for {{cityOrRegion}}.",
+      "The full Puronics residential lineup \u2014 chlorostatic, bacteriostatic, salt-free, specialty, and RO \u2014 is available through Mission Pure with professional installation included. View systems at products.html.",
+      "Whole-home Puronics filtration plus the Micromax\u2122 8500 RO covers shower steam, laundry, ice, and baby bottles in a single Mission Pure visit.",
+      "Our Water Watch feed and HOA briefings keep {{cityOrRegion}} neighborhoods ahead of the next headline."
+    ],
+    "ctaLabel": "Talk to the install lead",
+    "ctaUrl": "contact.html"
+  }
+]

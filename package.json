@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "scripts": {
+    "deploy": "powershell -ExecutionPolicy Bypass -File scripts/deploy.ps1",
+    "images:webp": "node scripts/generate-webp.js",
+    "cache:bust": "node scripts/bump-cache-version.js",
+    "waterwatch:refresh": "node scripts/water-watch-refresh.js",
+    "gbp:post": "node scripts/gbp-poster.js --preview=tmp/gbp-preview.json",
+    "trends:harvest": "node scripts/trend-harvest.js",
+    "build:cities": "node scripts/build-city-pages.js",
+    "sitemap": "node scripts/generate-sitemap.js",
+    "seo:audit": "node scripts/seo-audit.js",
+    "indexnow": "node scripts/indexnow-ping.js",
+    "seo:build": "npm run build:cities && npm run sitemap && npm run cache:bust && npm run seo:audit"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.3.6",
+    "googleapis": "^133.0.0",
+    "png-to-ico": "^3.0.1",
+    "sharp": "^0.34.5"
+  }
+}

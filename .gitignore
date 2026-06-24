@@ -1,0 +1,8 @@
+node_modules/
+*.log
+key.json
+secrets.txt
+config/*.json
+!config/*.example.json
+tmp/
+.env
