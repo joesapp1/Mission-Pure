@@ -1,0 +1,526 @@
+{
+  "datasetVersion": "2026-05-12T18:29:00-05:00",
+  "zipToUtilities": {
+    "75189": [
+      {
+        "id": "royse-city-water",
+        "name": "City of Royse City Water Utilities",
+        "region": "TX"
+      }
+    ]
+  },
+  "utilityChemicals": {
+    "royse-city-water": [
+      {
+        "name": "Total Trihalomethanes (TTHMs)",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk; liver/kidney effects",
+        "level": "medium"
+      },
+      {
+        "name": "Chloroform",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk",
+        "level": "medium"
+      },
+      {
+        "name": "Bromodichloromethane",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk",
+        "level": "low"
+      },
+      {
+        "name": "Dibromochloromethane",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk",
+        "level": "low"
+      },
+      {
+        "name": "Bromoform",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk",
+        "level": "low"
+      },
+      {
+        "name": "Haloacetic Acids (HAA5)",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk; reproductive effects",
+        "level": "medium"
+      },
+      {
+        "name": "Bromochloroacetic acid",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk",
+        "level": "low"
+      },
+      {
+        "name": "Dibromoacetic acid",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk",
+        "level": "low"
+      },
+      {
+        "name": "Dichloroacetic acid",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk",
+        "level": "medium"
+      },
+      {
+        "name": "Trichloroacetic acid",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk",
+        "level": "medium"
+      },
+      {
+        "name": "Lead",
+        "category": "Heavy metals",
+        "concerns": "Developmental effects; nervous system",
+        "level": "high"
+      },
+      {
+        "name": "Copper",
+        "category": "Metals",
+        "concerns": "Gastrointestinal effects; taste",
+        "level": "low"
+      },
+      {
+        "name": "Arsenic",
+        "category": "Naturally occurring",
+        "concerns": "Possible cancer risk; skin effects",
+        "level": "medium"
+      },
+      {
+        "name": "Chromium (hexavalent)",
+        "category": "Industrial pollutants",
+        "concerns": "Possible cancer risk",
+        "level": "low"
+      },
+      {
+        "name": "Nitrate",
+        "category": "Agricultural runoff",
+        "concerns": "Blue baby syndrome; thyroid effects",
+        "level": "low"
+      },
+      {
+        "name": "Nitrite",
+        "category": "Agricultural runoff",
+        "concerns": "Blood oxygen transport effects",
+        "level": "low"
+      },
+      {
+        "name": "Atrazine",
+        "category": "Herbicides",
+        "concerns": "Hormone disruption (potential)",
+        "level": "low"
+      },
+      {
+        "name": "Simazine",
+        "category": "Herbicides",
+        "concerns": "Possible endocrine effects",
+        "level": "low"
+      },
+      {
+        "name": "2,4-D",
+        "category": "Herbicides",
+        "concerns": "Kidney/liver effects (at high exposure)",
+        "level": "low"
+      },
+      {
+        "name": "Glyphosate",
+        "category": "Herbicides",
+        "concerns": "Possible cancer risk (debated)",
+        "level": "low"
+      },
+      {
+        "name": "Benzene",
+        "category": "Industrial solvents",
+        "concerns": "Cancer risk",
+        "level": "low"
+      },
+      {
+        "name": "Trichloroethylene (TCE)",
+        "category": "Industrial solvents",
+        "concerns": "Cancer risk; immune effects",
+        "level": "low"
+      },
+      {
+        "name": "Tetrachloroethylene (PCE)",
+        "category": "Industrial solvents",
+        "concerns": "Cancer risk; nervous system",
+        "level": "low"
+      },
+      {
+        "name": "Fluoride",
+        "category": "Additives",
+        "concerns": "Dental/skeletal effects (at high exposure)",
+        "level": "low"
+      },
+      {
+        "name": "Chlorine",
+        "category": "Disinfectant",
+        "concerns": "Skin/eye irritation; taste/odor",
+        "level": "medium"
+      },
+      {
+        "name": "Chloramine",
+        "category": "Disinfectant",
+        "concerns": "Skin/eye irritation; taste/odor",
+        "level": "low"
+      },
+      {
+        "name": "Sodium",
+        "category": "Minerals",
+        "concerns": "Blood pressure concerns for sensitive individuals",
+        "level": "low"
+      },
+      {
+        "name": "Sulfate",
+        "category": "Minerals",
+        "concerns": "Taste; digestive effects at high levels",
+        "level": "low"
+      },
+      {
+        "name": "Total dissolved solids",
+        "category": "Water quality",
+        "concerns": "Taste/odor; scaling",
+        "level": "low"
+      },
+      {
+        "name": "Turbidity",
+        "category": "Water quality",
+        "concerns": "Indicator of treatment effectiveness",
+        "level": "low"
+      },
+      {
+        "name": "PFAS (indicator)",
+        "category": "Forever chemicals",
+        "concerns": "Immune; thyroid; developmental effects",
+        "level": "medium"
+      }
+    ],
+    "__tx_default": [
+      {
+        "name": "Total Trihalomethanes (TTHMs)",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk; liver/kidney effects",
+        "level": "medium"
+      },
+      {
+        "name": "Total Haloacetic Acids (HAA5)",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk; reproductive effects",
+        "level": "medium"
+      },
+      {
+        "name": "Chloroform",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk",
+        "level": "medium"
+      },
+      {
+        "name": "Bromodichloromethane",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk",
+        "level": "low"
+      },
+      {
+        "name": "Dibromochloromethane",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk",
+        "level": "low"
+      },
+      {
+        "name": "Bromoform",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk",
+        "level": "low"
+      },
+      {
+        "name": "Lead",
+        "category": "Lead and copper",
+        "concerns": "Developmental effects; nervous system",
+        "level": "high"
+      },
+      {
+        "name": "Copper",
+        "category": "Lead and copper",
+        "concerns": "Gastrointestinal effects; taste",
+        "level": "low"
+      },
+      {
+        "name": "Arsenic",
+        "category": "Inorganic contaminants",
+        "concerns": "Possible cancer risk; skin effects",
+        "level": "medium"
+      },
+      {
+        "name": "Nitrate",
+        "category": "Inorganic contaminants",
+        "concerns": "Blue baby syndrome; thyroid effects",
+        "level": "low"
+      },
+      {
+        "name": "Nitrite",
+        "category": "Inorganic contaminants",
+        "concerns": "Blood oxygen transport effects",
+        "level": "low"
+      },
+      {
+        "name": "Fluoride",
+        "category": "Inorganic contaminants",
+        "concerns": "Dental/skeletal effects (at high exposure)",
+        "level": "low"
+      },
+      {
+        "name": "Turbidity",
+        "category": "Water quality",
+        "concerns": "Indicator of treatment effectiveness",
+        "level": "low"
+      },
+      {
+        "name": "Total Coliform Bacteria",
+        "category": "Microbial",
+        "concerns": "Indicator of possible microbial contamination",
+        "level": "low"
+      }
+    ],
+    "tx-pws-570004": [
+      {
+        "name": "Fluoride",
+        "category": "Inorganic contaminants",
+        "concerns": "Dental/skeletal effects (at high exposure)",
+        "level": "low"
+      },
+      {
+        "name": "Nitrate (as N)",
+        "category": "Inorganic contaminants",
+        "concerns": "Blue baby syndrome; thyroid effects",
+        "level": "low"
+      },
+      {
+        "name": "Nitrite (as N)",
+        "category": "Inorganic contaminants",
+        "concerns": "Blood oxygen transport effects",
+        "level": "low"
+      },
+      {
+        "name": "Barium",
+        "category": "Inorganic contaminants",
+        "concerns": "Blood pressure effects (at high exposure)",
+        "level": "low"
+      },
+      {
+        "name": "Bromate",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk",
+        "level": "low"
+      },
+      {
+        "name": "Aluminum",
+        "category": "Inorganic contaminants",
+        "concerns": "Secondary standard (taste/color); possible neurological concerns",
+        "level": "low"
+      },
+      {
+        "name": "Manganese",
+        "category": "Inorganic contaminants",
+        "concerns": "Secondary standard (taste/color); neurological effects (at high exposure)",
+        "level": "low"
+      },
+      {
+        "name": "Gross beta particle activity",
+        "category": "Radioactive contaminants",
+        "concerns": "Cancer risk (long-term exposure)",
+        "level": "low"
+      },
+      {
+        "name": "Atrazine",
+        "category": "Organic contaminants",
+        "concerns": "Hormone disruption (potential)",
+        "level": "low"
+      },
+      {
+        "name": "Simazine",
+        "category": "Organic contaminants",
+        "concerns": "Possible endocrine effects",
+        "level": "low"
+      },
+      {
+        "name": "Total Haloacetic Acids (HAA5)",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk; reproductive effects",
+        "level": "medium"
+      },
+      {
+        "name": "Total Trihalomethanes (TTHMs)",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk; liver/kidney effects",
+        "level": "medium"
+      },
+      {
+        "name": "Total Organic Carbon",
+        "category": "Water quality",
+        "concerns": "Regulated treatment technique; indicator of byproduct formation potential",
+        "level": "low"
+      },
+      {
+        "name": "Total Chlorine Residual",
+        "category": "Disinfectant",
+        "concerns": "Skin/eye irritation; taste/odor",
+        "level": "medium"
+      },
+      {
+        "name": "Lead",
+        "category": "Lead and copper",
+        "concerns": "Developmental effects; nervous system",
+        "level": "high"
+      },
+      {
+        "name": "Turbidity",
+        "category": "Water quality",
+        "concerns": "Indicator of treatment effectiveness",
+        "level": "low"
+      },
+      {
+        "name": "Total Coliform Bacteria",
+        "category": "Microbial",
+        "concerns": "Indicator of possible microbial contamination",
+        "level": "low"
+      },
+      {
+        "name": "Chloroform",
+        "category": "Unregulated contaminants",
+        "concerns": "Possible cancer risk",
+        "level": "medium"
+      },
+      {
+        "name": "Bromoform",
+        "category": "Unregulated contaminants",
+        "concerns": "Possible cancer risk",
+        "level": "low"
+      },
+      {
+        "name": "Bromodichloromethane",
+        "category": "Unregulated contaminants",
+        "concerns": "Possible cancer risk",
+        "level": "low"
+      },
+      {
+        "name": "Dibromochloromethane",
+        "category": "Unregulated contaminants",
+        "concerns": "Possible cancer risk",
+        "level": "low"
+      }
+    ],
+    "tx-override-grapevine": [
+      {
+        "name": "Lead",
+        "category": "Lead and copper",
+        "concerns": "Developmental effects; nervous system",
+        "level": "high"
+      },
+      {
+        "name": "Copper",
+        "category": "Lead and copper",
+        "concerns": "Gastrointestinal effects; taste",
+        "level": "low"
+      },
+      {
+        "name": "Turbidity",
+        "category": "Water quality",
+        "concerns": "Indicator of treatment effectiveness",
+        "level": "low"
+      },
+      {
+        "name": "Total Coliform Bacteria",
+        "category": "Microbial",
+        "concerns": "Indicator of possible microbial contamination",
+        "level": "low"
+      },
+      {
+        "name": "Chloramines",
+        "category": "Disinfectant",
+        "concerns": "Skin/eye irritation; taste/odor",
+        "level": "low"
+      },
+      {
+        "name": "Total Trihalomethanes (TTHMs)",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk; liver/kidney effects",
+        "level": "medium"
+      },
+      {
+        "name": "Chloroform",
+        "category": "Unregulated contaminants",
+        "concerns": "Possible cancer risk",
+        "level": "medium"
+      },
+      {
+        "name": "Bromodichloromethane",
+        "category": "Unregulated contaminants",
+        "concerns": "Possible cancer risk",
+        "level": "low"
+      },
+      {
+        "name": "Dibromochloromethane",
+        "category": "Unregulated contaminants",
+        "concerns": "Possible cancer risk",
+        "level": "low"
+      },
+      {
+        "name": "Fluoride",
+        "category": "Inorganic contaminants",
+        "concerns": "Dental/skeletal effects (at high exposure)",
+        "level": "low"
+      },
+      {
+        "name": "Nitrate",
+        "category": "Inorganic contaminants",
+        "concerns": "Blue baby syndrome; thyroid effects",
+        "level": "low"
+      },
+      {
+        "name": "Atrazine",
+        "category": "Organic contaminants",
+        "concerns": "Hormone disruption (potential)",
+        "level": "low"
+      },
+      {
+        "name": "Simazine",
+        "category": "Organic contaminants",
+        "concerns": "Possible endocrine effects",
+        "level": "low"
+      },
+      {
+        "name": "Aluminum",
+        "category": "Inorganic contaminants",
+        "concerns": "Secondary standard (taste/color); possible neurological concerns",
+        "level": "low"
+      },
+      {
+        "name": "Manganese",
+        "category": "Inorganic contaminants",
+        "concerns": "Secondary standard (taste/color); neurological effects (at high exposure)",
+        "level": "low"
+      },
+      {
+        "name": "Bromate",
+        "category": "Disinfection byproducts",
+        "concerns": "Possible cancer risk",
+        "level": "low"
+      },
+      {
+        "name": "PFOA",
+        "category": "Forever chemicals",
+        "concerns": "Immune; thyroid; developmental effects",
+        "level": "medium"
+      },
+      {
+        "name": "PFOS",
+        "category": "Forever chemicals",
+        "concerns": "Immune; thyroid; developmental effects",
+        "level": "medium"
+      }
+    ]
+  }
+}

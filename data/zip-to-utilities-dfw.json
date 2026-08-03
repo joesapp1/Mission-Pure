@@ -1,0 +1,3548 @@
+{
+  "generatedAt": "now",
+  "zipToUtilities": {
+    "75001": [
+      {
+        "id": "tx-pws-570031",
+        "name": "TOWN OF ADDISON",
+        "region": "TX"
+      }
+    ],
+    "75002": [
+      {
+        "id": "tx-pws-430025",
+        "name": "CITY OF ALLEN",
+        "region": "TX"
+      }
+    ],
+    "75006": [
+      {
+        "id": "tx-pws-570034",
+        "name": "CITY OF CARROLLTON",
+        "region": "TX"
+      }
+    ],
+    "75007": [
+      {
+        "id": "tx-pws-570034",
+        "name": "CITY OF CARROLLTON",
+        "region": "TX"
+      }
+    ],
+    "75009": [
+      {
+        "id": "tx-pws-610036",
+        "name": "MUSTANG SUD",
+        "region": "TX"
+      }
+    ],
+    "75010": [
+      {
+        "id": "tx-pws-570034",
+        "name": "CITY OF CARROLLTON",
+        "region": "TX"
+      }
+    ],
+    "75011": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75013": [
+      {
+        "id": "tx-pws-430025",
+        "name": "CITY OF ALLEN",
+        "region": "TX"
+      }
+    ],
+    "75014": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75015": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75016": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75017": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75019": [
+      {
+        "id": "tx-pws-570040",
+        "name": "CITY OF COPPELL",
+        "region": "TX"
+      }
+    ],
+    "75020": [
+      {
+        "id": "tx-pws-910003",
+        "name": "CITY OF DENISON",
+        "region": "TX"
+      }
+    ],
+    "75021": [
+      {
+        "id": "tx-pws-910046",
+        "name": "STARR WSC",
+        "region": "TX"
+      }
+    ],
+    "75022": [
+      {
+        "id": "tx-pws-610023",
+        "name": "TOWN OF FLOWER MOUND",
+        "region": "TX"
+      }
+    ],
+    "75023": [
+      {
+        "id": "tx-pws-430007",
+        "name": "CITY OF PLANO",
+        "region": "TX"
+      }
+    ],
+    "75024": [
+      {
+        "id": "tx-pws-430007",
+        "name": "CITY OF PLANO",
+        "region": "TX"
+      }
+    ],
+    "75025": [
+      {
+        "id": "tx-pws-430007",
+        "name": "CITY OF PLANO",
+        "region": "TX"
+      }
+    ],
+    "75026": [
+      {
+        "id": "tx-pws-430039",
+        "name": "CITY OF MCKINNEY",
+        "region": "TX"
+      }
+    ],
+    "75027": [
+      {
+        "id": "tx-pws-610002",
+        "name": "CITY OF DENTON",
+        "region": "TX"
+      }
+    ],
+    "75028": [
+      {
+        "id": "tx-pws-610023",
+        "name": "TOWN OF FLOWER MOUND",
+        "region": "TX"
+      }
+    ],
+    "75029": [
+      {
+        "id": "tx-pws-610002",
+        "name": "CITY OF DENTON",
+        "region": "TX"
+      }
+    ],
+    "75030": [
+      {
+        "id": "tx-pws-570056",
+        "name": "CITY OF ROWLETT",
+        "region": "TX"
+      }
+    ],
+    "75032": [
+      {
+        "id": "tx-pws-1990004",
+        "name": "BLACKLAND WSC",
+        "region": "TX"
+      }
+    ],
+    "75033": [
+      {
+        "id": "tx-pws-430005",
+        "name": "CITY OF FRISCO",
+        "region": "TX"
+      }
+    ],
+    "75034": [
+      {
+        "id": "tx-pws-430005",
+        "name": "CITY OF FRISCO",
+        "region": "TX"
+      }
+    ],
+    "75035": [
+      {
+        "id": "tx-pws-430005",
+        "name": "CITY OF FRISCO",
+        "region": "TX"
+      }
+    ],
+    "75036": [
+      {
+        "id": "tx-pws-430005",
+        "name": "CITY OF FRISCO",
+        "region": "TX"
+      }
+    ],
+    "75038": [
+      {
+        "id": "tx-pws-570050",
+        "name": "CITY OF IRVING",
+        "region": "TX"
+      }
+    ],
+    "75039": [
+      {
+        "id": "tx-pws-570050",
+        "name": "CITY OF IRVING",
+        "region": "TX"
+      }
+    ],
+    "75040": [
+      {
+        "id": "tx-pws-570010",
+        "name": "CITY OF GARLAND",
+        "region": "TX"
+      }
+    ],
+    "75041": [
+      {
+        "id": "tx-pws-570010",
+        "name": "CITY OF GARLAND",
+        "region": "TX"
+      }
+    ],
+    "75042": [
+      {
+        "id": "tx-pws-570010",
+        "name": "CITY OF GARLAND",
+        "region": "TX"
+      }
+    ],
+    "75043": [
+      {
+        "id": "tx-pws-570010",
+        "name": "CITY OF GARLAND",
+        "region": "TX"
+      }
+    ],
+    "75044": [
+      {
+        "id": "tx-pws-570010",
+        "name": "CITY OF GARLAND",
+        "region": "TX"
+      }
+    ],
+    "75045": [
+      {
+        "id": "tx-pws-570010",
+        "name": "CITY OF GARLAND",
+        "region": "TX"
+      }
+    ],
+    "75046": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75047": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75048": [
+      {
+        "id": "tx-pws-570057",
+        "name": "CITY OF SACHSE",
+        "region": "TX"
+      }
+    ],
+    "75049": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75050": [
+      {
+        "id": "tx-pws-570048",
+        "name": "CITY OF GRAND PRAIRIE",
+        "region": "TX"
+      }
+    ],
+    "75051": [
+      {
+        "id": "tx-pws-570048",
+        "name": "CITY OF GRAND PRAIRIE",
+        "region": "TX"
+      }
+    ],
+    "75052": [
+      {
+        "id": "tx-pws-570048",
+        "name": "CITY OF GRAND PRAIRIE",
+        "region": "TX"
+      }
+    ],
+    "75053": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75054": [
+      {
+        "id": "tx-pws-570048",
+        "name": "CITY OF GRAND PRAIRIE",
+        "region": "TX"
+      }
+    ],
+    "75056": [
+      {
+        "id": "tx-pws-610081",
+        "name": "CITY OF THE COLONY",
+        "region": "TX"
+      }
+    ],
+    "75057": [
+      {
+        "id": "tx-pws-610004",
+        "name": "CITY OF LEWISVILLE",
+        "region": "TX"
+      }
+    ],
+    "75058": [
+      {
+        "id": "tx-pws-610036",
+        "name": "MUSTANG SUD",
+        "region": "TX"
+      }
+    ],
+    "75059": [
+      {
+        "id": "tx-pws-570050",
+        "name": "CITY OF IRVING",
+        "region": "TX"
+      }
+    ],
+    "75060": [
+      {
+        "id": "tx-pws-570050",
+        "name": "CITY OF IRVING",
+        "region": "TX"
+      }
+    ],
+    "75061": [
+      {
+        "id": "tx-pws-570050",
+        "name": "CITY OF IRVING",
+        "region": "TX"
+      }
+    ],
+    "75062": [
+      {
+        "id": "tx-pws-570050",
+        "name": "CITY OF IRVING",
+        "region": "TX"
+      }
+    ],
+    "75063": [
+      {
+        "id": "tx-pws-570050",
+        "name": "CITY OF IRVING",
+        "region": "TX"
+      }
+    ],
+    "75065": [
+      {
+        "id": "tx-pws-610029",
+        "name": "LAKE CITIES MUNICIPAL UTILITY AUTHORITY",
+        "region": "TX"
+      }
+    ],
+    "75067": [
+      {
+        "id": "tx-pws-610004",
+        "name": "CITY OF LEWISVILLE",
+        "region": "TX"
+      }
+    ],
+    "75068": [
+      {
+        "id": "tx-pws-610036",
+        "name": "MUSTANG SUD",
+        "region": "TX"
+      }
+    ],
+    "75069": [
+      {
+        "id": "tx-pws-430039",
+        "name": "CITY OF MCKINNEY",
+        "region": "TX"
+      }
+    ],
+    "75070": [
+      {
+        "id": "tx-pws-430039",
+        "name": "CITY OF MCKINNEY",
+        "region": "TX"
+      }
+    ],
+    "75071": [
+      {
+        "id": "tx-pws-430039",
+        "name": "CITY OF MCKINNEY",
+        "region": "TX"
+      }
+    ],
+    "75072": [
+      {
+        "id": "tx-pws-430039",
+        "name": "CITY OF MCKINNEY",
+        "region": "TX"
+      }
+    ],
+    "75074": [
+      {
+        "id": "tx-pws-430007",
+        "name": "CITY OF PLANO",
+        "region": "TX"
+      }
+    ],
+    "75075": [
+      {
+        "id": "tx-pws-430007",
+        "name": "CITY OF PLANO",
+        "region": "TX"
+      }
+    ],
+    "75076": [
+      {
+        "id": "tx-pws-910052",
+        "name": "TANGLEWOOD ON TEXOMA",
+        "region": "TX"
+      }
+    ],
+    "75077": [
+      {
+        "id": "tx-pws-610080",
+        "name": "CITY OF HIGHLAND VILLAGE",
+        "region": "TX"
+      }
+    ],
+    "75078": [
+      {
+        "id": "tx-pws-430009",
+        "name": "TOWN OF PROSPER",
+        "region": "TX"
+      }
+    ],
+    "75080": [
+      {
+        "id": "tx-pws-570015",
+        "name": "CITY OF RICHARDSON",
+        "region": "TX"
+      }
+    ],
+    "75081": [
+      {
+        "id": "tx-pws-570015",
+        "name": "CITY OF RICHARDSON",
+        "region": "TX"
+      }
+    ],
+    "75082": [
+      {
+        "id": "tx-pws-570015",
+        "name": "CITY OF RICHARDSON",
+        "region": "TX"
+      }
+    ],
+    "75083": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75085": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75086": [
+      {
+        "id": "tx-pws-570015",
+        "name": "CITY OF RICHARDSON",
+        "region": "TX"
+      }
+    ],
+    "75087": [
+      {
+        "id": "tx-pws-1990001",
+        "name": "CITY OF ROCKWALL",
+        "region": "TX"
+      }
+    ],
+    "75088": [
+      {
+        "id": "tx-pws-570056",
+        "name": "CITY OF ROWLETT",
+        "region": "TX"
+      }
+    ],
+    "75089": [
+      {
+        "id": "tx-pws-570056",
+        "name": "CITY OF ROWLETT",
+        "region": "TX"
+      }
+    ],
+    "75090": [
+      {
+        "id": "tx-pws-910006",
+        "name": "CITY OF SHERMAN",
+        "region": "TX"
+      }
+    ],
+    "75091": [
+      {
+        "id": "tx-pws-910006",
+        "name": "CITY OF SHERMAN",
+        "region": "TX"
+      }
+    ],
+    "75092": [
+      {
+        "id": "tx-pws-910006",
+        "name": "CITY OF SHERMAN",
+        "region": "TX"
+      }
+    ],
+    "75093": [
+      {
+        "id": "tx-pws-430007",
+        "name": "CITY OF PLANO",
+        "region": "TX"
+      }
+    ],
+    "75094": [
+      {
+        "id": "tx-pws-430042",
+        "name": "CITY OF MURPHY",
+        "region": "TX"
+      }
+    ],
+    "75097": [
+      {
+        "id": "tx-pws-430050",
+        "name": "WESTON WSC",
+        "region": "TX"
+      }
+    ],
+    "75098": [
+      {
+        "id": "tx-pws-430011",
+        "name": "CITY OF WYLIE",
+        "region": "TX"
+      }
+    ],
+    "75099": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75101": [
+      {
+        "id": "tx-pws-700023",
+        "name": "RURAL BARDWELL WSC",
+        "region": "TX"
+      }
+    ],
+    "75102": [
+      {
+        "id": "tx-pws-1750028",
+        "name": "B & B WSC",
+        "region": "TX"
+      }
+    ],
+    "75104": [
+      {
+        "id": "tx-pws-570036",
+        "name": "CITY OF CEDAR HILL",
+        "region": "TX"
+      }
+    ],
+    "75105": [
+      {
+        "id": "tx-pws-1750012",
+        "name": "CHATFIELD WSC",
+        "region": "TX"
+      }
+    ],
+    "75106": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75109": [
+      {
+        "id": "tx-pws-1750010",
+        "name": "ANGUS WSC",
+        "region": "TX"
+      }
+    ],
+    "75110": [
+      {
+        "id": "tx-pws-1750002",
+        "name": "CITY OF CORSICANA",
+        "region": "TX"
+      }
+    ],
+    "75114": [
+      {
+        "id": "tx-pws-1290015",
+        "name": "GASTONIA SCURRY SUD",
+        "region": "TX"
+      }
+    ],
+    "75115": [
+      {
+        "id": "tx-pws-570006",
+        "name": "CITY OF DESOTO",
+        "region": "TX"
+      }
+    ],
+    "75116": [
+      {
+        "id": "tx-pws-570007",
+        "name": "CITY OF DUNCANVILLE",
+        "region": "TX"
+      }
+    ],
+    "75118": [
+      {
+        "id": "tx-pws-1290003",
+        "name": "CITY OF KAUFMAN",
+        "region": "TX"
+      }
+    ],
+    "75119": [
+      {
+        "id": "tx-pws-700001",
+        "name": "CITY OF ENNIS",
+        "region": "TX"
+      }
+    ],
+    "75121": [
+      {
+        "id": "tx-pws-430029",
+        "name": "COPEVILLE SUD",
+        "region": "TX"
+      }
+    ],
+    "75123": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75125": [
+      {
+        "id": "tx-pws-700002",
+        "name": "CITY OF FERRIS",
+        "region": "TX"
+      }
+    ],
+    "75126": [
+      {
+        "id": "tx-pws-1290002",
+        "name": "CITY OF FORNEY",
+        "region": "TX"
+      }
+    ],
+    "75132": [
+      {
+        "id": "tx-pws-1990006",
+        "name": "CITY OF FATE",
+        "region": "TX"
+      }
+    ],
+    "75134": [
+      {
+        "id": "tx-pws-570013",
+        "name": "CITY OF LANCASTER",
+        "region": "TX"
+      }
+    ],
+    "75135": [
+      {
+        "id": "tx-pws-1160029",
+        "name": "CADDO BASIN SUD",
+        "region": "TX"
+      }
+    ],
+    "75137": [
+      {
+        "id": "tx-pws-570007",
+        "name": "CITY OF DUNCANVILLE",
+        "region": "TX"
+      }
+    ],
+    "75138": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75141": [
+      {
+        "id": "tx-pws-570012",
+        "name": "CITY OF HUTCHINS",
+        "region": "TX"
+      }
+    ],
+    "75142": [
+      {
+        "id": "tx-pws-1290011",
+        "name": "BECKER-JIBA SUD",
+        "region": "TX"
+      }
+    ],
+    "75143": [
+      {
+        "id": "tx-pws-1070004",
+        "name": "CITY OF TRINIDAD",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1750012",
+        "name": "CHATFIELD WSC",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1070069",
+        "name": "BEACHWOOD ESTATES & NORTH TRINIDAD",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1070190",
+        "name": "WEST CEDAR CREEK MUD",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1070167",
+        "name": "EAST CEDAR CREEK FWSD BROOKSHIRE",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1070019",
+        "name": "EAST CEDAR CREEK FWSD B A MCKAY",
+        "region": "TX"
+      }
+    ],
+    "75144": [
+      {
+        "id": "tx-pws-1750005",
+        "name": "CITY OF KERENS",
+        "region": "TX"
+      }
+    ],
+    "75146": [
+      {
+        "id": "tx-pws-570013",
+        "name": "CITY OF LANCASTER",
+        "region": "TX"
+      }
+    ],
+    "75147": [
+      {
+        "id": "tx-pws-1290005",
+        "name": "CITY OF MABANK",
+        "region": "TX"
+      }
+    ],
+    "75149": [
+      {
+        "id": "tx-pws-570014",
+        "name": "CITY OF MESQUITE",
+        "region": "TX"
+      }
+    ],
+    "75150": [
+      {
+        "id": "tx-pws-570014",
+        "name": "CITY OF MESQUITE",
+        "region": "TX"
+      }
+    ],
+    "75151": [
+      {
+        "id": "tx-pws-1750031",
+        "name": "RETREAT WATER SYSTEM",
+        "region": "TX"
+      }
+    ],
+    "75152": [
+      {
+        "id": "tx-pws-700033",
+        "name": "ROCKETT SUD",
+        "region": "TX"
+      }
+    ],
+    "75153": [
+      {
+        "id": "tx-pws-1750012",
+        "name": "CHATFIELD WSC",
+        "region": "TX"
+      }
+    ],
+    "75154": [
+      {
+        "id": "tx-pws-700031",
+        "name": "CITY OF RED OAK",
+        "region": "TX"
+      }
+    ],
+    "75155": [
+      {
+        "id": "tx-pws-1750019",
+        "name": "RICE WSC",
+        "region": "TX"
+      }
+    ],
+    "75156": [
+      {
+        "id": "tx-pws-1070019",
+        "name": "EAST CEDAR CREEK FWSD B A MCKAY",
+        "region": "TX"
+      }
+    ],
+    "75157": [
+      {
+        "id": "tx-pws-1290015",
+        "name": "GASTONIA SCURRY SUD",
+        "region": "TX"
+      }
+    ],
+    "75158": [
+      {
+        "id": "tx-pws-1290015",
+        "name": "GASTONIA SCURRY SUD",
+        "region": "TX"
+      }
+    ],
+    "75159": [
+      {
+        "id": "tx-pws-570016",
+        "name": "CITY OF SEAGOVILLE",
+        "region": "TX"
+      }
+    ],
+    "75160": [
+      {
+        "id": "tx-pws-1290006",
+        "name": "CITY OF TERRELL",
+        "region": "TX"
+      }
+    ],
+    "75161": [
+      {
+        "id": "tx-pws-1290013",
+        "name": "ELMO WSC",
+        "region": "TX"
+      }
+    ],
+    "75164": [
+      {
+        "id": "tx-pws-430036",
+        "name": "CITY OF JOSEPHINE",
+        "region": "TX"
+      }
+    ],
+    "75165": [
+      {
+        "id": "tx-pws-700008",
+        "name": "CITY OF WAXAHACHIE",
+        "region": "TX"
+      }
+    ],
+    "75166": [
+      {
+        "id": "tx-pws-430037",
+        "name": "BEAR CREEK SUD",
+        "region": "TX"
+      }
+    ],
+    "75167": [
+      {
+        "id": "tx-pws-700037",
+        "name": "BUENA VISTA BETHEL SUD",
+        "region": "TX"
+      }
+    ],
+    "75168": [
+      {
+        "id": "tx-pws-700033",
+        "name": "ROCKETT SUD",
+        "region": "TX"
+      }
+    ],
+    "75169": [
+      {
+        "id": "tx-pws-2340005",
+        "name": "CITY OF WILLS POINT",
+        "region": "TX"
+      }
+    ],
+    "75172": [
+      {
+        "id": "tx-pws-570018",
+        "name": "CITY OF WILMER",
+        "region": "TX"
+      }
+    ],
+    "75173": [
+      {
+        "id": "tx-pws-430053",
+        "name": "NEVADA SUD",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-430029",
+        "name": "COPEVILLE SUD",
+        "region": "TX"
+      }
+    ],
+    "75180": [
+      {
+        "id": "tx-pws-570032",
+        "name": "CITY OF BALCH SPRINGS",
+        "region": "TX"
+      }
+    ],
+    "75181": [
+      {
+        "id": "tx-pws-570014",
+        "name": "CITY OF MESQUITE",
+        "region": "TX"
+      }
+    ],
+    "75182": [
+      {
+        "id": "tx-pws-570059",
+        "name": "TOWN OF SUNNYVALE",
+        "region": "TX"
+      }
+    ],
+    "75185": [
+      {
+        "id": "tx-pws-570014",
+        "name": "CITY OF MESQUITE",
+        "region": "TX"
+      }
+    ],
+    "75187": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75189": [
+      {
+        "id": "tx-pws-1990002",
+        "name": "CITY OF ROYSE CITY",
+        "region": "TX"
+      }
+    ],
+    "75201": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75202": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75203": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75204": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75205": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75206": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75207": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75208": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75209": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75210": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75211": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75212": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75214": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75215": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75216": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75217": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75218": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75219": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75220": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75221": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75222": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75223": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75224": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75225": [
+      {
+        "id": "tx-pws-570061",
+        "name": "CITY OF UNIVERSITY PARK",
+        "region": "TX"
+      }
+    ],
+    "75226": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75227": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75228": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75229": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75230": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75231": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75232": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75233": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75234": [
+      {
+        "id": "tx-pws-570047",
+        "name": "CITY OF FARMERS BRANCH",
+        "region": "TX"
+      }
+    ],
+    "75235": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75236": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75237": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75238": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75240": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75241": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75242": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75243": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75244": [
+      {
+        "id": "tx-pws-570047",
+        "name": "CITY OF FARMERS BRANCH",
+        "region": "TX"
+      }
+    ],
+    "75246": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75247": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75248": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75249": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75250": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75251": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75252": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75253": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75254": [
+      {
+        "id": "tx-pws-570031",
+        "name": "TOWN OF ADDISON",
+        "region": "TX"
+      }
+    ],
+    "75260": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75261": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75270": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75287": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75313": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75315": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75336": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75339": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75342": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75354": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75355": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75356": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75357": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75360": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75367": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75370": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75371": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75372": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75374": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75376": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75378": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75379": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75380": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75381": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75382": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75390": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75398": [
+      {
+        "id": "tx-pws-570004",
+        "name": "DALLAS WATER UTILITY",
+        "region": "TX"
+      }
+    ],
+    "75401": [
+      {
+        "id": "tx-pws-1160004",
+        "name": "CITY OF GREENVILLE",
+        "region": "TX"
+      }
+    ],
+    "75402": [
+      {
+        "id": "tx-pws-1160004",
+        "name": "CITY OF GREENVILLE",
+        "region": "TX"
+      }
+    ],
+    "75403": [
+      {
+        "id": "tx-pws-1160042",
+        "name": "SHADY GROVE SUD",
+        "region": "TX"
+      }
+    ],
+    "75404": [
+      {
+        "id": "tx-pws-1160018",
+        "name": "CASH SUD",
+        "region": "TX"
+      }
+    ],
+    "75407": [
+      {
+        "id": "tx-pws-430030",
+        "name": "CULLEOKA WSC",
+        "region": "TX"
+      }
+    ],
+    "75409": [
+      {
+        "id": "tx-pws-430027",
+        "name": "CITY OF ANNA",
+        "region": "TX"
+      }
+    ],
+    "75413": [
+      {
+        "id": "tx-pws-740038",
+        "name": "CITY OF BAILEY",
+        "region": "TX"
+      }
+    ],
+    "75414": [
+      {
+        "id": "tx-pws-910001",
+        "name": "CITY OF BELLS",
+        "region": "TX"
+      }
+    ],
+    "75418": [
+      {
+        "id": "tx-pws-740001",
+        "name": "CITY OF BONHAM",
+        "region": "TX"
+      }
+    ],
+    "75422": [
+      {
+        "id": "tx-pws-1160017",
+        "name": "CAMPBELL WSC",
+        "region": "TX"
+      }
+    ],
+    "75423": [
+      {
+        "id": "tx-pws-1160029",
+        "name": "CADDO BASIN SUD",
+        "region": "TX"
+      }
+    ],
+    "75424": [
+      {
+        "id": "tx-pws-430035",
+        "name": "FROGNOT SUD",
+        "region": "TX"
+      }
+    ],
+    "75428": [
+      {
+        "id": "tx-pws-1160003",
+        "name": "CITY OF COMMERCE",
+        "region": "TX"
+      }
+    ],
+    "75433": [
+      {
+        "id": "tx-pws-1120010",
+        "name": "BRASHEAR WSC",
+        "region": "TX"
+      }
+    ],
+    "75438": [
+      {
+        "id": "tx-pws-740002",
+        "name": "CITY OF DODD CITY",
+        "region": "TX"
+      }
+    ],
+    "75439": [
+      {
+        "id": "tx-pws-740007",
+        "name": "CITY OF ECTOR",
+        "region": "TX"
+      }
+    ],
+    "75442": [
+      {
+        "id": "tx-pws-430004",
+        "name": "CITY OF FARMERSVILLE",
+        "region": "TX"
+      }
+    ],
+    "75443": [
+      {
+        "id": "tx-pws-740024",
+        "name": "GOBER MUD",
+        "region": "TX"
+      }
+    ],
+    "75446": [
+      {
+        "id": "tx-pws-740003",
+        "name": "CITY OF HONEY GROVE",
+        "region": "TX"
+      }
+    ],
+    "75447": [
+      {
+        "id": "tx-pws-740035",
+        "name": "WHITE SHED WSC",
+        "region": "TX"
+      }
+    ],
+    "75448": [
+      {
+        "id": "tx-pws-600017",
+        "name": "WEST DELTA WSC",
+        "region": "TX"
+      }
+    ],
+    "75449": [
+      {
+        "id": "tx-pws-740004",
+        "name": "CITY OF LADONIA",
+        "region": "TX"
+      }
+    ],
+    "75452": [
+      {
+        "id": "tx-pws-740019",
+        "name": "ARLEDGE RIDGE WSC",
+        "region": "TX"
+      }
+    ],
+    "75453": [
+      {
+        "id": "tx-pws-1160006",
+        "name": "CITY OF LONE OAK",
+        "region": "TX"
+      }
+    ],
+    "75454": [
+      {
+        "id": "tx-pws-430040",
+        "name": "CITY OF MELISSA",
+        "region": "TX"
+      }
+    ],
+    "75458": [
+      {
+        "id": "tx-pws-1160062",
+        "name": "HICKORY CREEK SUD",
+        "region": "TX"
+      }
+    ],
+    "75459": [
+      {
+        "id": "tx-pws-910028",
+        "name": "CITY OF DORCHESTER",
+        "region": "TX"
+      }
+    ],
+    "75469": [
+      {
+        "id": "tx-pws-600018",
+        "name": "DELTA COUNTY MUD",
+        "region": "TX"
+      }
+    ],
+    "75474": [
+      {
+        "id": "tx-pws-1160007",
+        "name": "CITY OF QUINLAN",
+        "region": "TX"
+      }
+    ],
+    "75475": [
+      {
+        "id": "tx-pws-740027",
+        "name": "RANDOLPH WSC",
+        "region": "TX"
+      }
+    ],
+    "75476": [
+      {
+        "id": "tx-pws-740035",
+        "name": "WHITE SHED WSC",
+        "region": "TX"
+      }
+    ],
+    "75479": [
+      {
+        "id": "tx-pws-740031",
+        "name": "SOUTHWEST FANNIN COUNTY SUD",
+        "region": "TX"
+      }
+    ],
+    "75485": [
+      {
+        "id": "tx-pws-430049",
+        "name": "WESTMINSTER SUD",
+        "region": "TX"
+      }
+    ],
+    "75486": [
+      {
+        "id": "tx-pws-1390015",
+        "name": "LAMAR COUNTY WATER SUPPLY DISTRICT",
+        "region": "TX"
+      }
+    ],
+    "75488": [
+      {
+        "id": "tx-pws-740044",
+        "name": "BOIS D ARC MUD",
+        "region": "TX"
+      }
+    ],
+    "75489": [
+      {
+        "id": "tx-pws-910008",
+        "name": "CITY OF TOM BEAN",
+        "region": "TX"
+      }
+    ],
+    "75490": [
+      {
+        "id": "tx-pws-740009",
+        "name": "CITY OF TRENTON",
+        "region": "TX"
+      }
+    ],
+    "75491": [
+      {
+        "id": "tx-pws-910060",
+        "name": "KENTUCKYTOWN WSC",
+        "region": "TX"
+      }
+    ],
+    "75492": [
+      {
+        "id": "tx-pws-740008",
+        "name": "CITY OF WINDOM",
+        "region": "TX"
+      }
+    ],
+    "75495": [
+      {
+        "id": "tx-pws-910064",
+        "name": "SOUTH GRAYSON SUD",
+        "region": "TX"
+      }
+    ],
+    "75496": [
+      {
+        "id": "tx-pws-1160005",
+        "name": "CITY OF WOLFE CITY",
+        "region": "TX"
+      }
+    ],
+    "75859": [
+      {
+        "id": "tx-pws-1750023",
+        "name": "WINKLER WSC",
+        "region": "TX"
+      }
+    ],
+    "76001": [
+      {
+        "id": "tx-pws-2200001",
+        "name": "CITY OF ARLINGTON",
+        "region": "TX"
+      }
+    ],
+    "76002": [
+      {
+        "id": "tx-pws-2200001",
+        "name": "CITY OF ARLINGTON",
+        "region": "TX"
+      }
+    ],
+    "76003": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76004": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76005": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76006": [
+      {
+        "id": "tx-pws-2200001",
+        "name": "CITY OF ARLINGTON",
+        "region": "TX"
+      }
+    ],
+    "76007": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76008": [
+      {
+        "id": "tx-pws-1840001",
+        "name": "CITY OF ALEDO",
+        "region": "TX"
+      }
+    ],
+    "76009": [
+      {
+        "id": "tx-pws-1260018",
+        "name": "JOHNSON COUNTY SUD",
+        "region": "TX"
+      }
+    ],
+    "76010": [
+      {
+        "id": "tx-pws-2200001",
+        "name": "CITY OF ARLINGTON",
+        "region": "TX"
+      }
+    ],
+    "76011": [
+      {
+        "id": "tx-pws-2200001",
+        "name": "CITY OF ARLINGTON",
+        "region": "TX"
+      }
+    ],
+    "76012": [
+      {
+        "id": "tx-pws-2200001",
+        "name": "CITY OF ARLINGTON",
+        "region": "TX"
+      }
+    ],
+    "76013": [
+      {
+        "id": "tx-pws-2200066",
+        "name": "TOWN OF PANTEGO",
+        "region": "TX"
+      }
+    ],
+    "76014": [
+      {
+        "id": "tx-pws-2200001",
+        "name": "CITY OF ARLINGTON",
+        "region": "TX"
+      }
+    ],
+    "76015": [
+      {
+        "id": "tx-pws-2200001",
+        "name": "CITY OF ARLINGTON",
+        "region": "TX"
+      }
+    ],
+    "76016": [
+      {
+        "id": "tx-pws-2200001",
+        "name": "CITY OF ARLINGTON",
+        "region": "TX"
+      }
+    ],
+    "76017": [
+      {
+        "id": "tx-pws-2200001",
+        "name": "CITY OF ARLINGTON",
+        "region": "TX"
+      }
+    ],
+    "76018": [
+      {
+        "id": "tx-pws-2200001",
+        "name": "CITY OF ARLINGTON",
+        "region": "TX"
+      }
+    ],
+    "76019": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76020": [
+      {
+        "id": "tx-pws-2200002",
+        "name": "CITY OF AZLE",
+        "region": "TX"
+      }
+    ],
+    "76021": [
+      {
+        "id": "tx-pws-2200003",
+        "name": "CITY OF BEDFORD",
+        "region": "TX"
+      }
+    ],
+    "76022": [
+      {
+        "id": "tx-pws-2200003",
+        "name": "CITY OF BEDFORD",
+        "region": "TX"
+      }
+    ],
+    "76023": [
+      {
+        "id": "tx-pws-1840008",
+        "name": "WALNUT CREEK SUD",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-2490002",
+        "name": "CITY OF BOYD",
+        "region": "TX"
+      }
+    ],
+    "76028": [
+      {
+        "id": "tx-pws-1260002",
+        "name": "CITY OF BURLESON",
+        "region": "TX"
+      }
+    ],
+    "76031": [
+      {
+        "id": "tx-pws-1260018",
+        "name": "JOHNSON COUNTY SUD",
+        "region": "TX"
+      }
+    ],
+    "76033": [
+      {
+        "id": "tx-pws-1260003",
+        "name": "CITY OF CLEBURNE",
+        "region": "TX"
+      }
+    ],
+    "76034": [
+      {
+        "id": "tx-pws-2200043",
+        "name": "CITY OF COLLEYVILLE",
+        "region": "TX"
+      }
+    ],
+    "76035": [
+      {
+        "id": "tx-pws-1260053",
+        "name": "CITY OF CRESSON",
+        "region": "TX"
+      }
+    ],
+    "76036": [
+      {
+        "id": "tx-pws-2200034",
+        "name": "CITY OF CROWLEY",
+        "region": "TX"
+      }
+    ],
+    "76039": [
+      {
+        "id": "tx-pws-2200031",
+        "name": "CITY OF EULESS",
+        "region": "TX"
+      }
+    ],
+    "76040": [
+      {
+        "id": "tx-pws-2200031",
+        "name": "CITY OF EULESS",
+        "region": "TX"
+      }
+    ],
+    "76041": [
+      {
+        "id": "tx-pws-700025",
+        "name": "NASH FORRESTON WSC",
+        "region": "TX"
+      }
+    ],
+    "76043": [
+      {
+        "id": "tx-pws-2130001",
+        "name": "CITY OF GLEN ROSE",
+        "region": "TX"
+      }
+    ],
+    "76044": [
+      {
+        "id": "tx-pws-1260018",
+        "name": "JOHNSON COUNTY SUD",
+        "region": "TX"
+      }
+    ],
+    "76048": [
+      {
+        "id": "tx-pws-1110001",
+        "name": "CITY OF GRANBURY",
+        "region": "TX"
+      }
+    ],
+    "76049": [
+      {
+        "id": "tx-pws-1110109",
+        "name": "GRANBURY ACRES WATER SYSTEM",
+        "region": "TX"
+      }
+    ],
+    "76050": [
+      {
+        "id": "tx-pws-1260018",
+        "name": "JOHNSON COUNTY SUD",
+        "region": "TX"
+      }
+    ],
+    "76051": [
+      {
+        "id": "tx-override-grapevine",
+        "name": "City of Grapevine Water Utilities",
+        "region": "TX"
+      }
+    ],
+    "76052": [
+      {
+        "id": "tx-pws-2200100",
+        "name": "BLUE MOUND ESTATES",
+        "region": "TX"
+      }
+    ],
+    "76053": [
+      {
+        "id": "tx-pws-2200054",
+        "name": "CITY OF HURST",
+        "region": "TX"
+      }
+    ],
+    "76054": [
+      {
+        "id": "tx-pws-2200054",
+        "name": "CITY OF HURST",
+        "region": "TX"
+      }
+    ],
+    "76055": [
+      {
+        "id": "tx-pws-1090003",
+        "name": "CITY OF ITASCA",
+        "region": "TX"
+      }
+    ],
+    "76058": [
+      {
+        "id": "tx-pws-1260018",
+        "name": "JOHNSON COUNTY SUD",
+        "region": "TX"
+      }
+    ],
+    "76059": [
+      {
+        "id": "tx-pws-1260008",
+        "name": "CITY OF KEENE",
+        "region": "TX"
+      }
+    ],
+    "76060": [
+      {
+        "id": "tx-pws-2200017",
+        "name": "CITY OF KENNEDALE",
+        "region": "TX"
+      }
+    ],
+    "76061": [
+      {
+        "id": "tx-pws-1260018",
+        "name": "JOHNSON COUNTY SUD",
+        "region": "TX"
+      }
+    ],
+    "76063": [
+      {
+        "id": "tx-pws-2200018",
+        "name": "CITY OF MANSFIELD",
+        "region": "TX"
+      }
+    ],
+    "76064": [
+      {
+        "id": "tx-pws-700042",
+        "name": "MOUNTAIN PEAK SUD",
+        "region": "TX"
+      }
+    ],
+    "76065": [
+      {
+        "id": "tx-pws-700005",
+        "name": "CITY OF MIDLOTHIAN",
+        "region": "TX"
+      }
+    ],
+    "76066": [
+      {
+        "id": "tx-pws-1840007",
+        "name": "MILLSAP WSC",
+        "region": "TX"
+      }
+    ],
+    "76067": [
+      {
+        "id": "tx-pws-1820001",
+        "name": "CITY OF MINERAL WELLS",
+        "region": "TX"
+      }
+    ],
+    "76070": [
+      {
+        "id": "tx-pws-2130042",
+        "name": "SOMERVELL COUNTY WATER DISTRICT",
+        "region": "TX"
+      }
+    ],
+    "76071": [
+      {
+        "id": "tx-pws-2490008",
+        "name": "CITY OF NEWARK",
+        "region": "TX"
+      }
+    ],
+    "76073": [
+      {
+        "id": "tx-pws-2490037",
+        "name": "STONEGATE WATER",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1840008",
+        "name": "WALNUT CREEK SUD",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-2490050",
+        "name": "WINDMILL TRAIL",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-2490016",
+        "name": "WEST WISE SUD",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-2490010",
+        "name": "CITY OF PARADISE",
+        "region": "TX"
+      }
+    ],
+    "76077": [
+      {
+        "id": "tx-pws-2130042",
+        "name": "SOMERVELL COUNTY WATER DISTRICT",
+        "region": "TX"
+      }
+    ],
+    "76078": [
+      {
+        "id": "tx-pws-2490007",
+        "name": "CITY OF RHOME",
+        "region": "TX"
+      }
+    ],
+    "76082": [
+      {
+        "id": "tx-pws-1840008",
+        "name": "WALNUT CREEK SUD",
+        "region": "TX"
+      }
+    ],
+    "76084": [
+      {
+        "id": "tx-pws-1260006",
+        "name": "CITY OF VENUS",
+        "region": "TX"
+      }
+    ],
+    "76085": [
+      {
+        "id": "tx-pws-1840005",
+        "name": "CITY OF WEATHERFORD",
+        "region": "TX"
+      }
+    ],
+    "76086": [
+      {
+        "id": "tx-pws-1840005",
+        "name": "CITY OF WEATHERFORD",
+        "region": "TX"
+      }
+    ],
+    "76087": [
+      {
+        "id": "tx-pws-1840006",
+        "name": "CITY OF HUDSON OAKS",
+        "region": "TX"
+      }
+    ],
+    "76088": [
+      {
+        "id": "tx-pws-1840159",
+        "name": "BLUE RIDGE WATER SYSTEM",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1840038",
+        "name": "LAGO LINDO ESTATES",
+        "region": "TX"
+      }
+    ],
+    "76092": [
+      {
+        "id": "tx-override-grapevine",
+        "name": "City of Grapevine Water Utilities",
+        "region": "TX"
+      }
+    ],
+    "76093": [
+      {
+        "id": "tx-pws-1260021",
+        "name": "PARKER WSC",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1260018",
+        "name": "JOHNSON COUNTY SUD",
+        "region": "TX"
+      }
+    ],
+    "76094": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76095": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76096": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76097": [
+      {
+        "id": "tx-pws-1260017",
+        "name": "BETHESDA WSC",
+        "region": "TX"
+      }
+    ],
+    "76098": [
+      {
+        "id": "tx-pws-2200002",
+        "name": "CITY OF AZLE",
+        "region": "TX"
+      }
+    ],
+    "76099": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76101": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76102": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76103": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76104": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76105": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76106": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76107": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76108": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76109": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76110": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76111": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76112": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76113": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76114": [
+      {
+        "id": "tx-pws-2200069",
+        "name": "CITY OF RIVER OAKS",
+        "region": "TX"
+      }
+    ],
+    "76115": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76116": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76117": [
+      {
+        "id": "tx-pws-2200014",
+        "name": "CITY OF HALTOM CITY",
+        "region": "TX"
+      }
+    ],
+    "76118": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76119": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76120": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76121": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76122": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76123": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76124": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76126": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76127": [
+      {
+        "id": "tx-pws-2200332",
+        "name": "NAVAL AIR STN JOINT RESERVE BASE",
+        "region": "TX"
+      }
+    ],
+    "76129": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76130": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76131": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76132": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76133": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76134": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76135": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76136": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76137": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76140": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76147": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76148": [
+      {
+        "id": "tx-pws-2200328",
+        "name": "CITY OF WATAUGA",
+        "region": "TX"
+      }
+    ],
+    "76155": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76161": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76162": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76163": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76164": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76177": [
+      {
+        "id": "tx-pws-2200052",
+        "name": "CITY OF HASLET",
+        "region": "TX"
+      }
+    ],
+    "76179": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76180": [
+      {
+        "id": "tx-pws-2200063",
+        "name": "CITY OF NORTH RICHLAND HILLS",
+        "region": "TX"
+      }
+    ],
+    "76182": [
+      {
+        "id": "tx-pws-2200063",
+        "name": "CITY OF NORTH RICHLAND HILLS",
+        "region": "TX"
+      }
+    ],
+    "76185": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76190": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76191": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76192": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76193": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76195": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76196": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76197": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76199": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76201": [
+      {
+        "id": "tx-pws-610002",
+        "name": "CITY OF DENTON",
+        "region": "TX"
+      }
+    ],
+    "76202": [
+      {
+        "id": "tx-pws-610002",
+        "name": "CITY OF DENTON",
+        "region": "TX"
+      }
+    ],
+    "76203": [
+      {
+        "id": "tx-pws-610002",
+        "name": "CITY OF DENTON",
+        "region": "TX"
+      }
+    ],
+    "76204": [
+      {
+        "id": "tx-pws-610002",
+        "name": "CITY OF DENTON",
+        "region": "TX"
+      }
+    ],
+    "76205": [
+      {
+        "id": "tx-pws-610002",
+        "name": "CITY OF DENTON",
+        "region": "TX"
+      }
+    ],
+    "76206": [
+      {
+        "id": "tx-pws-610002",
+        "name": "CITY OF DENTON",
+        "region": "TX"
+      }
+    ],
+    "76207": [
+      {
+        "id": "tx-pws-610002",
+        "name": "CITY OF DENTON",
+        "region": "TX"
+      }
+    ],
+    "76208": [
+      {
+        "id": "tx-pws-610002",
+        "name": "CITY OF DENTON",
+        "region": "TX"
+      }
+    ],
+    "76209": [
+      {
+        "id": "tx-pws-610002",
+        "name": "CITY OF DENTON",
+        "region": "TX"
+      }
+    ],
+    "76210": [
+      {
+        "id": "tx-pws-610065",
+        "name": "CITY OF CORINTH",
+        "region": "TX"
+      }
+    ],
+    "76225": [
+      {
+        "id": "tx-pws-2490001",
+        "name": "CITY OF ALVORD",
+        "region": "TX"
+      }
+    ],
+    "76226": [
+      {
+        "id": "tx-pws-610019",
+        "name": "ARGYLE WSC",
+        "region": "TX"
+      }
+    ],
+    "76227": [
+      {
+        "id": "tx-pws-610001",
+        "name": "CITY OF AUBREY",
+        "region": "TX"
+      }
+    ],
+    "76233": [
+      {
+        "id": "tx-pws-910005",
+        "name": "CITY OF COLLINSVILLE",
+        "region": "TX"
+      }
+    ],
+    "76234": [
+      {
+        "id": "tx-pws-2490005",
+        "name": "CITY OF DECATUR WATER PLANT",
+        "region": "TX"
+      }
+    ],
+    "76238": [
+      {
+        "id": "tx-pws-610049",
+        "name": "BOLIVAR WSC",
+        "region": "TX"
+      }
+    ],
+    "76239": [
+      {
+        "id": "tx-pws-1690003",
+        "name": "FORESTBURG WSC",
+        "region": "TX"
+      }
+    ],
+    "76240": [
+      {
+        "id": "tx-pws-490001",
+        "name": "CITY OF GAINESVILLE",
+        "region": "TX"
+      }
+    ],
+    "76241": [
+      {
+        "id": "tx-pws-490018",
+        "name": "WOODBINE SPECIAL UTILITY DISTRICT",
+        "region": "TX"
+      }
+    ],
+    "76244": [
+      {
+        "id": "tx-pws-2200012",
+        "name": "CITY OF FORT WORTH",
+        "region": "TX"
+      }
+    ],
+    "76245": [
+      {
+        "id": "tx-pws-910137",
+        "name": "NORTHWEST GRAYSON COUNTY WCID 1",
+        "region": "TX"
+      }
+    ],
+    "76246": [
+      {
+        "id": "tx-pws-610049",
+        "name": "BOLIVAR WSC",
+        "region": "TX"
+      }
+    ],
+    "76247": [
+      {
+        "id": "tx-pws-610003",
+        "name": "CITY OF JUSTIN",
+        "region": "TX"
+      }
+    ],
+    "76248": [
+      {
+        "id": "tx-pws-2200096",
+        "name": "CITY OF KELLER",
+        "region": "TX"
+      }
+    ],
+    "76249": [
+      {
+        "id": "tx-pws-610049",
+        "name": "BOLIVAR WSC",
+        "region": "TX"
+      }
+    ],
+    "76250": [
+      {
+        "id": "tx-pws-490003",
+        "name": "CITY OF LINDSAY",
+        "region": "TX"
+      }
+    ],
+    "76252": [
+      {
+        "id": "tx-pws-490002",
+        "name": "CITY OF MUENSTER",
+        "region": "TX"
+      }
+    ],
+    "76253": [
+      {
+        "id": "tx-pws-490019",
+        "name": "MYRA WATER SYSTEM",
+        "region": "TX"
+      }
+    ],
+    "76258": [
+      {
+        "id": "tx-pws-610036",
+        "name": "MUSTANG SUD",
+        "region": "TX"
+      }
+    ],
+    "76259": [
+      {
+        "id": "tx-pws-610039",
+        "name": "TOWN OF PONDER",
+        "region": "TX"
+      }
+    ],
+    "76262": [
+      {
+        "id": "tx-pws-610008",
+        "name": "CITY OF ROANOKE",
+        "region": "TX"
+      }
+    ],
+    "76263": [
+      {
+        "id": "tx-pws-610049",
+        "name": "BOLIVAR WSC",
+        "region": "TX"
+      }
+    ],
+    "76264": [
+      {
+        "id": "tx-pws-910022",
+        "name": "TWO WAY SUD",
+        "region": "TX"
+      }
+    ],
+    "76265": [
+      {
+        "id": "tx-pws-1690006",
+        "name": "CITY OF SAINT JO",
+        "region": "TX"
+      }
+    ],
+    "76266": [
+      {
+        "id": "tx-pws-610006",
+        "name": "CITY OF SANGER",
+        "region": "TX"
+      }
+    ],
+    "76267": [
+      {
+        "id": "tx-pws-610049",
+        "name": "BOLIVAR WSC",
+        "region": "TX"
+      }
+    ],
+    "76268": [
+      {
+        "id": "tx-pws-910045",
+        "name": "CITY OF SOUTHMAYD",
+        "region": "TX"
+      }
+    ],
+    "76270": [
+      {
+        "id": "tx-pws-1690007",
+        "name": "SUNSET WATER SYSTEM",
+        "region": "TX"
+      }
+    ],
+    "76271": [
+      {
+        "id": "tx-pws-910007",
+        "name": "CITY OF TIOGA",
+        "region": "TX"
+      }
+    ],
+    "76272": [
+      {
+        "id": "tx-pws-610049",
+        "name": "BOLIVAR WSC",
+        "region": "TX"
+      }
+    ],
+    "76273": [
+      {
+        "id": "tx-pws-910022",
+        "name": "TWO WAY SUD",
+        "region": "TX"
+      }
+    ],
+    "76401": [
+      {
+        "id": "tx-pws-720002",
+        "name": "CITY OF STEPHENVILLE",
+        "region": "TX"
+      }
+    ],
+    "76402": [
+      {
+        "id": "tx-pws-720002",
+        "name": "CITY OF STEPHENVILLE",
+        "region": "TX"
+      }
+    ],
+    "76426": [
+      {
+        "id": "tx-pws-2490016",
+        "name": "WEST WISE SUD",
+        "region": "TX"
+      }
+    ],
+    "76429": [
+      {
+        "id": "tx-pws-2150007",
+        "name": "STEPHENS REGIONAL SUD",
+        "region": "TX"
+      }
+    ],
+    "76431": [
+      {
+        "id": "tx-pws-2490004",
+        "name": "CITY OF CHICO",
+        "region": "TX"
+      }
+    ],
+    "76433": [
+      {
+        "id": "tx-pws-720058",
+        "name": "ALFORD RENTALS",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-720037",
+        "name": "MOUNTAIN LAKES ADDITION",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-720036",
+        "name": "BLUFF DALE WSC",
+        "region": "TX"
+      }
+    ],
+    "76436": [
+      {
+        "id": "tx-pws-470027",
+        "name": "COMANCHE COUNTY WSC SIPE SPRINGS",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-970001",
+        "name": "CITY OF HAMILTON",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-470003",
+        "name": "CITY OF GUSTINE",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-500044",
+        "name": "MULTI-COUNTY WSC",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-720001",
+        "name": "CITY OF DUBLIN",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-180038",
+        "name": "MUSTANG VALLEY WSC",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-970002",
+        "name": "CITY OF HICO",
+        "region": "TX"
+      }
+    ],
+    "76439": [
+      {
+        "id": "tx-pws-1840079",
+        "name": "PARKER COUNTY SUD SURFACE",
+        "region": "TX"
+      }
+    ],
+    "76444": [
+      {
+        "id": "tx-pws-470002",
+        "name": "CITY OF DE LEON",
+        "region": "TX"
+      }
+    ],
+    "76445": [
+      {
+        "id": "tx-pws-670023",
+        "name": "STAFF WSC OLDEN AREA",
+        "region": "TX"
+      }
+    ],
+    "76446": [
+      {
+        "id": "tx-pws-720001",
+        "name": "CITY OF DUBLIN",
+        "region": "TX"
+      }
+    ],
+    "76449": [
+      {
+        "id": "tx-pws-1820076",
+        "name": "POSSUM KINGDOM WSC",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-2520007",
+        "name": "FORT BELKNAP WSC",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1820004",
+        "name": "PALO PINTO WSC",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1820003",
+        "name": "CITY OF GRAFORD",
+        "region": "TX"
+      }
+    ],
+    "76450": [
+      {
+        "id": "tx-pws-2520001",
+        "name": "CITY OF GRAHAM",
+        "region": "TX"
+      }
+    ],
+    "76453": [
+      {
+        "id": "tx-pws-1820007",
+        "name": "CITY OF GORDON",
+        "region": "TX"
+      }
+    ],
+    "76457": [
+      {
+        "id": "tx-pws-970002",
+        "name": "CITY OF HICO",
+        "region": "TX"
+      }
+    ],
+    "76458": [
+      {
+        "id": "tx-pws-1190002",
+        "name": "CITY OF JACKSBORO",
+        "region": "TX"
+      }
+    ],
+    "76461": [
+      {
+        "id": "tx-pws-720034",
+        "name": "EQUESTRIAN ESTATES",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-720033",
+        "name": "CATTAIL CREEK MHP",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-720054",
+        "name": "THOUSAND OAKS SUBDIVISION",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-720057",
+        "name": "BUNKHOUSE WATER SYSTEM",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-720002",
+        "name": "CITY OF STEPHENVILLE",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-720028",
+        "name": "GREEN CREEK WSC",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-720027",
+        "name": "PIGEON ROAD ESTATES",
+        "region": "TX"
+      }
+    ],
+    "76462": [
+      {
+        "id": "tx-pws-1110011",
+        "name": "CITY OF LIPAN",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1110004",
+        "name": "OAK TRAIL SHORES",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1110001",
+        "name": "CITY OF GRANBURY",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1820010",
+        "name": "SANTO SUD",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1840002",
+        "name": "HORSESHOE BEND WATER SYSTEM",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1840079",
+        "name": "PARKER COUNTY SUD SURFACE",
+        "region": "TX"
+      }
+    ],
+    "76463": [
+      {
+        "id": "tx-pws-1820008",
+        "name": "CITY OF MINGUS",
+        "region": "TX"
+      }
+    ],
+    "76465": [
+      {
+        "id": "tx-pws-720002",
+        "name": "CITY OF STEPHENVILLE",
+        "region": "TX"
+      }
+    ],
+    "76467": [
+      {
+        "id": "tx-pws-720037",
+        "name": "MOUNTAIN LAKES ADDITION",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1110012",
+        "name": "CITY OF TOLAR",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-720036",
+        "name": "BLUFF DALE WSC",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-2130042",
+        "name": "SOMERVELL COUNTY WATER DISTRICT",
+        "region": "TX"
+      }
+    ],
+    "76470": [
+      {
+        "id": "tx-pws-670004",
+        "name": "CITY OF RANGER",
+        "region": "TX"
+      }
+    ],
+    "76472": [
+      {
+        "id": "tx-pws-1820010",
+        "name": "SANTO SUD",
+        "region": "TX"
+      }
+    ],
+    "76475": [
+      {
+        "id": "tx-pws-1820005",
+        "name": "CITY OF STRAWN",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-2150007",
+        "name": "STEPHENS REGIONAL SUD",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1820008",
+        "name": "CITY OF MINGUS",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1820007",
+        "name": "CITY OF GORDON",
+        "region": "TX"
+      }
+    ],
+    "76476": [
+      {
+        "id": "tx-pws-1110077",
+        "name": "SUNSET ACRES SUBDIVISION",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1110012",
+        "name": "CITY OF TOLAR",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1110024",
+        "name": "ROCK HARBOR ESTATES",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1110006",
+        "name": "MOORELAND WATER COMPANY",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1110035",
+        "name": "MOUNTAIN VIEW SUBDIVISION",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1110060",
+        "name": "COMANCHE COVE & HERITAGE HEIGHTS",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1110022",
+        "name": "COMANCHE HARBOR & PORT OCALL",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1110007",
+        "name": "ACTON MUD",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1110050",
+        "name": "COMANCHE PEAK NORTH",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1110001",
+        "name": "CITY OF GRANBURY",
+        "region": "TX"
+      }
+    ],
+    "76484": [
+      {
+        "id": "tx-pws-1820007",
+        "name": "CITY OF GORDON",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1820011",
+        "name": "STURDIVANT PROGRESS WSC",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1820004",
+        "name": "PALO PINTO WSC",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1820069",
+        "name": "LAKE PALO PINTO AREA WSC",
+        "region": "TX"
+      }
+    ],
+    "76485": [
+      {
+        "id": "tx-pws-1840005",
+        "name": "CITY OF WEATHERFORD",
+        "region": "TX"
+      }
+    ],
+    "76486": [
+      {
+        "id": "tx-pws-1190005",
+        "name": "PERRIN WATER SYSTEM",
+        "region": "TX"
+      }
+    ],
+    "76487": [
+      {
+        "id": "tx-pws-1840076",
+        "name": "WINDSOR ESTATES",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1840038",
+        "name": "LAGO LINDO ESTATES",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1840017",
+        "name": "AGNES SUBDIVISION",
+        "region": "TX"
+      },
+      {
+        "id": "tx-pws-1840008",
+        "name": "WALNUT CREEK SUD",
+        "region": "TX"
+      }
+    ],
+    "76490": [
+      {
+        "id": "tx-pws-1840009",
+        "name": "WHITT WSC",
+        "region": "TX"
+      }
+    ],
+    "76623": [
+      {
+        "id": "tx-pws-700019",
+        "name": "AVALON WSC",
+        "region": "TX"
+      }
+    ],
+    "76626": [
+      {
+        "id": "tx-pws-1750024",
+        "name": "NAVARRO MILLS WSC",
+        "region": "TX"
+      }
+    ],
+    "76639": [
+      {
+        "id": "tx-pws-1750003",
+        "name": "CITY OF DAWSON",
+        "region": "TX"
+      }
+    ],
+    "76641": [
+      {
+        "id": "tx-pws-1750024",
+        "name": "NAVARRO MILLS WSC",
+        "region": "TX"
+      }
+    ],
+    "76648": [
+      {
+        "id": "tx-pws-1090002",
+        "name": "CITY OF HUBBARD",
+        "region": "TX"
+      }
+    ],
+    "76649": [
+      {
+        "id": "tx-pws-180014",
+        "name": "CITY OF IREDELL",
+        "region": "TX"
+      }
+    ],
+    "76651": [
+      {
+        "id": "tx-pws-700028",
+        "name": "CITY OF ITALY",
+        "region": "TX"
+      }
+    ],
+    "76670": [
+      {
+        "id": "tx-pws-700043",
+        "name": "SOUTH ELLIS COUNTY WATER SUPPLY",
+        "region": "TX"
+      }
+    ],
+    "76679": [
+      {
+        "id": "tx-pws-1750013",
+        "name": "CORBET WSC",
+        "region": "TX"
+      }
+    ],
+    "76681": [
+      {
+        "id": "tx-pws-1750013",
+        "name": "CORBET WSC",
+        "region": "TX"
+      }
+    ],
+    "76690": [
+      {
+        "id": "tx-pws-180020",
+        "name": "CITY OF WALNUT SPRINGS",
+        "region": "TX"
+      }
+    ],
+    "76693": [
+      {
+        "id": "tx-pws-810015",
+        "name": "PLEASANT GROVE WSC",
+        "region": "TX"
+      }
+    ]
+  },
+  "missingZips": []
+}

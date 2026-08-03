@@ -1,0 +1,90 @@
+[
+  {
+    "id": "community-impact-arlington",
+    "label": "Community Impact Arlington",
+    "type": "rss",
+    "url": "https://communityimpact.com/dallas-fort-worth/arlington/feed/",
+    "city": "Arlington",
+    "tags": ["TTHM", "odor", "chloramine"],
+    "keywords": ["water", "utility", "boil", "pfas", "chloramine", "trihalomethane", "tthm"],
+    "defaultCta": "arlington-irving-water-filtration.html",
+    "limit": 3
+  },
+  {
+    "id": "community-impact-dallas",
+    "label": "Community Impact Dallas",
+    "type": "rss",
+    "url": "https://communityimpact.com/dallas-fort-worth/dallas/feed/",
+    "city": "Dallas",
+    "tags": ["PFAS", "lead", "DWU"],
+    "keywords": ["water", "utility", "pfas", "lead", "boil", "trihalomethane"],
+    "defaultCta": "dallas-water-filtration.html",
+    "limit": 3
+  },
+  {
+    "id": "community-impact-plano",
+    "label": "Community Impact Plano",
+    "type": "rss",
+    "url": "https://communityimpact.com/dallas-fort-worth/plano/feed/",
+    "city": "Plano",
+    "tags": ["NTMWD", "RO", "hardness"],
+    "keywords": ["water", "utility", "pfas", "ntmwd", "trihalomethane", "chloramine"],
+    "defaultCta": "frisco-plano-water-filtration.html",
+    "limit": 3
+  },
+  {
+    "id": "community-impact-fort-worth",
+    "label": "Community Impact Fort Worth",
+    "type": "rss",
+    "url": "https://communityimpact.com/dallas-fort-worth/fort-worth/feed/",
+    "city": "Fort Worth",
+    "tags": ["Trinity River", "taste", "chloramine"],
+    "keywords": ["water", "utility", "boil", "taste", "odor", "chloramine"],
+    "defaultCta": "service-areas.html#metroGrid",
+    "limit": 3
+  },
+  {
+    "id": "fort-worth-report",
+    "label": "Fort Worth Report",
+    "type": "rss",
+    "url": "https://fortworthreport.org/feed/",
+    "city": "Fort Worth",
+    "tags": ["TTHM", "Trinity River"],
+    "keywords": ["water", "utility", "boil", "chloramine", "pfas", "lead"],
+    "defaultCta": "arlington-irving-water-filtration.html",
+    "limit": 4
+  },
+  {
+    "id": "dallas-city-news",
+    "label": "Dallas City News",
+    "type": "rss",
+    "url": "https://www.dallascitynews.net/feed",
+    "city": "Dallas",
+    "tags": ["DWU", "boil", "PFAS"],
+    "keywords": ["water", "utility", "boil", "lead", "pfas", "chloramine"],
+    "defaultCta": "dallas-water-filtration.html",
+    "limit": 4
+  },
+  {
+    "id": "ntmwd",
+    "label": "NTMWD Updates",
+    "type": "rss",
+    "url": "https://www.ntmwd.com/feed/",
+    "city": "Plano",
+    "tags": ["NTMWD", "DBP", "hardness"],
+    "keywords": ["water", "ntmwd", "trihalomethane", "tthm", "chloramine", "pfas"],
+    "defaultCta": "frisco-plano-water-filtration.html",
+    "limit": 4
+  },
+  {
+    "id": "upper-trinity",
+    "label": "Upper Trinity Regional Water District",
+    "type": "rss",
+    "url": "https://utrwd.com/feed/",
+    "city": "Lewisville",
+    "tags": ["Upper Trinity", "hardness"],
+    "keywords": ["water", "upper trinity", "hardness", "chloramine", "odor"],
+    "defaultCta": "service-areas.html#metroGrid",
+    "limit": 3
+  }
+]

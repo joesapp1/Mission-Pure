@@ -71,7 +71,7 @@ const CITY_DATA = [
       },
       {
         q: "How fast can Mission Pure install in Fort Worth?",
-        a: "We stock Puronics systems across DFW. Most Fort Worth installs schedule within 3-5 days, and urgent reverse osmosis installs can often happen next-day.",
+        a: "We stock Gemline systems across DFW. Most Fort Worth installs schedule within 3-5 days, and urgent reverse osmosis installs can often happen next-day.",
       },
       {
         q: "Do you handle permits and city coordination?",
@@ -498,7 +498,7 @@ const CITY_DATA = [
     cities: ["Richardson"],
     title: "Richardson Water Filtration & Contaminant Lookup | Mission Pure",
     description:
-      "Mission Pure is a 5-star rated, authorized Puronics dealer helping Richardson homeowners check tap water contaminants and install whole-home and RO filtration. Call Today.",
+      "Mission Pure is a 5-star rated, authorized Gemline dealer helping Richardson homeowners check tap water contaminants and install whole-home and RO filtration. Call Today.",
     keywords:
       "Richardson water filtration, Richardson water filter, Richardson PFAS, Richardson whole home water filter, Richardson reverse osmosis, Mission Pure Richardson",
     utility: "North Texas Municipal Water District (NTMWD) via City of Richardson",
@@ -549,7 +549,7 @@ const CITY_DATA = [
     cities: ["Flower Mound"],
     title: "Flower Mound Water Filtration & Contaminant Lookup | Mission Pure",
     description:
-      "Mission Pure is a 5-star rated, authorized Puronics dealer helping Flower Mound homeowners check tap water contaminants and install whole-home and RO filtration. Call Today.",
+      "Mission Pure is a 5-star rated, authorized Gemline dealer helping Flower Mound homeowners check tap water contaminants and install whole-home and RO filtration. Call Today.",
     keywords:
       "Flower Mound water filtration, Flower Mound water filter, Flower Mound PFAS, Flower Mound whole home water filter, Flower Mound reverse osmosis, Mission Pure Flower Mound",
     utility: "Upper Trinity Regional Water District and Town of Flower Mound",
@@ -563,7 +563,7 @@ const CITY_DATA = [
       },
       {
         title: "Hard water & luxury fixtures",
-        body: "Affluent Flower Mound homes invest heavily in fixtures and appliances that hard water degrades fast. Puronics conditioning media and salt-free systems protect that investment.",
+        body: "Affluent Flower Mound homes invest heavily in fixtures and appliances that hard water degrades fast. Gemline KDC filter media and salt-free systems protect that investment.",
       },
       {
         title: "PFAS & disinfection byproducts",
@@ -573,7 +573,7 @@ const CITY_DATA = [
     faqs: [
       {
         q: "Is Flower Mound water hard?",
-        a: "Yes — Upper Trinity and lake-sourced water in Flower Mound is typically moderately hard. Many homeowners add Puronics conditioning media to protect premium fixtures and appliances.",
+        a: "Yes — Upper Trinity and lake-sourced water in Flower Mound is typically moderately hard. Many homeowners add Gemline KDC filter media to protect premium fixtures and appliances.",
       },
       {
         q: "What contaminants matter most in Flower Mound?",
@@ -590,7 +590,7 @@ const CITY_DATA = [
     ],
     quotes: [
       "Our fixtures stay spotless and the water tastes incredible — exactly what we expected from Mission Pure.",
-      "The Puronics system paid for itself by protecting our appliances from hard water scale.",
+      "The Gemline system paid for itself by protecting our appliances from hard water scale.",
       "Professional, careful install in Bridlewood — the team was fantastic.",
     ],
   },
@@ -600,7 +600,7 @@ const CITY_DATA = [
     cities: ["Keller"],
     title: "Keller Water Filtration & Contaminant Lookup | Mission Pure",
     description:
-      "Mission Pure is a 5-star rated, authorized Puronics dealer helping Keller homeowners check tap water contaminants and install whole-home and RO filtration. Call Today.",
+      "Mission Pure is a 5-star rated, authorized Gemline dealer helping Keller homeowners check tap water contaminants and install whole-home and RO filtration. Call Today.",
     keywords:
       "Keller water filtration, Keller water filter, Keller PFAS, Keller whole home water filter, Keller reverse osmosis, Mission Pure Keller TX",
     utility: "City of Keller Water Utilities and Upper Trinity Regional Water District",
@@ -614,11 +614,11 @@ const CITY_DATA = [
       },
       {
         title: "Hard water & premium homes",
-        body: "Keller's established neighborhoods have premium plumbing and appliances that benefit from Puronics conditioning — preventing scale and extending system life.",
+        body: "Keller's established neighborhoods have premium plumbing and appliances that benefit from Gemline conditioning — preventing scale and extending system life.",
       },
       {
         title: "PFAS indicators",
-        body: "PFAS have been detected in regional North Texas sampling. The Puronics Micromax™ 8500 RO is Mission Pure's flagship PFAS solution for Keller drinking water.",
+        body: "PFAS have been detected in regional North Texas sampling. The Gemline Micromax™ 8500 RO is Mission Pure's flagship PFAS solution for Keller drinking water.",
       },
     ],
     faqs: [
@@ -651,7 +651,7 @@ const CITY_DATA = [
     cities: ["Coppell"],
     title: "Coppell Water Filtration & Contaminant Lookup | Mission Pure",
     description:
-      "Mission Pure is a 5-star rated, authorized Puronics dealer helping Coppell homeowners check tap water contaminants and install whole-home and RO filtration. Call Today.",
+      "Mission Pure is a 5-star rated, authorized Gemline dealer helping Coppell homeowners check tap water contaminants and install whole-home and RO filtration. Call Today.",
     keywords:
       "Coppell water filtration, Coppell water filter, Coppell PFAS, Coppell whole home water filter, Coppell reverse osmosis, Mission Pure Coppell",
     utility: "City of Coppell Water Utilities (NTMWD member)",
@@ -665,7 +665,7 @@ const CITY_DATA = [
       },
       {
         title: "High-income home protection",
-        body: "Coppell's highly desirable real estate benefits from Puronics whole-home protection — scale prevention preserves appliance value and fixture finish in premium homes.",
+        body: "Coppell's highly desirable real estate benefits from Gemline whole-home protection — scale prevention preserves appliance value and fixture finish in premium homes.",
       },
       {
         title: "PFAS & disinfection byproducts",
@@ -702,7 +702,7 @@ const CITY_DATA = [
     cities: ["Mansfield"],
     title: "Mansfield Water Filtration & Contaminant Lookup | Mission Pure",
     description:
-      "Mission Pure is a 5-star rated, authorized Puronics dealer helping Mansfield homeowners check tap water contaminants and install whole-home and RO filtration. Call Today.",
+      "Mission Pure is a 5-star rated, authorized Gemline dealer helping Mansfield homeowners check tap water contaminants and install whole-home and RO filtration. Call Today.",
     keywords:
       "Mansfield water filtration, Mansfield water filter, Mansfield PFAS, Mansfield whole home water filter, Mansfield reverse osmosis, Mission Pure Mansfield TX",
     utility: "City of Mansfield Water Utilities",
@@ -716,7 +716,7 @@ const CITY_DATA = [
       },
       {
         title: "Fast-growing neighborhoods",
-        body: "Mansfield's rapid growth means newer plumbing that still benefits from whole-home conditioning. Salt-free Puronics systems prevent scale in tankless heaters and fixtures from day one.",
+        body: "Mansfield's rapid growth means newer plumbing that still benefits from whole-home conditioning. Salt-free Gemline systems prevent scale in tankless heaters and fixtures from day one.",
       },
       {
         title: "PFAS & disinfection byproducts",
@@ -744,7 +744,7 @@ const CITY_DATA = [
     quotes: [
       "The whole-home system handled the taste issues we'd had since moving in — worth every penny.",
       "Mission Pure's team was professional and the water quality changed immediately.",
-      "No more scale on our new fixtures — the Puronics system was the right call.",
+      "No more scale on our new fixtures — the Gemline system was the right call.",
     ],
   },
   {
@@ -753,7 +753,7 @@ const CITY_DATA = [
     cities: ["Grand Prairie"],
     title: "Grand Prairie Water Filtration & Contaminant Lookup | Mission Pure",
     description:
-      "Mission Pure is a 5-star rated, authorized Puronics dealer helping Grand Prairie homeowners check tap water contaminants and install whole-home and RO filtration. Call Today.",
+      "Mission Pure is a 5-star rated, authorized Gemline dealer helping Grand Prairie homeowners check tap water contaminants and install whole-home and RO filtration. Call Today.",
     keywords:
       "Grand Prairie water filtration, Grand Prairie water filter, Grand Prairie PFAS, Grand Prairie whole home water filter, Grand Prairie reverse osmosis, Mission Pure Grand Prairie",
     utility: "City of Grand Prairie Water Utilities",
@@ -767,7 +767,7 @@ const CITY_DATA = [
       },
       {
         title: "Chloramine treatment",
-        body: "Chloramine is common across mid-cities water utilities. Mission Pure uses Puronics catalytic carbon with extended contact time to reduce it at every tap.",
+        body: "Chloramine is common across mid-cities water utilities. Mission Pure uses Gemline KDC catalytic carbon filter with extended contact time to reduce it at every tap.",
       },
       {
         title: "PFAS & disinfection byproducts",
@@ -804,7 +804,7 @@ const CITY_DATA = [
     cities: ["Prosper", "Celina"],
     title: "Prosper & Celina Water Filtration & Contaminant Lookup | Mission Pure",
     description:
-      "Mission Pure is a 5-star rated, authorized Puronics dealer helping Prosper and Celina homeowners check tap water contaminants and install whole-home and RO filtration. Call Today.",
+      "Mission Pure is a 5-star rated, authorized Gemline dealer helping Prosper and Celina homeowners check tap water contaminants and install whole-home and RO filtration. Call Today.",
     keywords:
       "Prosper water filtration, Celina water filter, Prosper PFAS, Celina water contaminants, Prosper reverse osmosis, Celina whole home water filter, Mission Pure Prosper Celina",
     utility: "North Texas Municipal Water District (NTMWD) and North Collin County Special Utility District",
@@ -814,11 +814,11 @@ const CITY_DATA = [
     insights: [
       {
         title: "New construction water challenges",
-        body: "Prosper and Celina are among the fastest-growing cities in Texas. New plumbing in new construction still needs whole-home Puronics conditioning from day one to prevent scale and protect builder-grade fixtures.",
+        body: "Prosper and Celina are among the fastest-growing cities in Texas. New plumbing in new construction still needs whole-home Gemline conditioning from day one to prevent scale and protect builder-grade fixtures.",
       },
       {
         title: "NTMWD supply & hard water",
-        body: "NTMWD-sourced water is typically moderately hard. Puronics Terminator® iGen® and Clarius™ iGen® salt-free systems are ideal for the influx of new Prosper and Celina homes.",
+        body: "NTMWD-sourced water is typically moderately hard. Gemline Terminator® iGen® and Clarius™ iGen® salt-free systems are ideal for the influx of new Prosper and Celina homes.",
       },
       {
         title: "PFAS & disinfection byproducts",
@@ -828,7 +828,7 @@ const CITY_DATA = [
     faqs: [
       {
         q: "Do new homes in Prosper and Celina need water filtration?",
-        a: "Yes — new construction plumbing still carries municipal water with chloramine, hardness, and PFAS. Puronics whole-home systems protect your investment from day one.",
+        a: "Yes — new construction plumbing still carries municipal water with chloramine, hardness, and PFAS. Gemline whole-home systems protect your investment from day one.",
       },
       {
         q: "What contaminants matter most in Prosper and Celina?",
@@ -844,7 +844,7 @@ const CITY_DATA = [
       },
     ],
     quotes: [
-      "We added a Puronics system the same week we moved into our new Prosper home — best decision we made.",
+      "We added a Gemline system the same week we moved into our new Prosper home — best decision we made.",
       "The Celina install was fast and thorough — Mission Pure clearly knows new construction.",
       "Hard water was already showing on our fixtures. The whole-home system stopped it cold.",
     ],
@@ -855,7 +855,7 @@ const CITY_DATA = [
     cities: ["Wylie"],
     title: "Wylie Water Filtration & Contaminant Lookup | Mission Pure",
     description:
-      "Mission Pure is a 5-star rated, authorized Puronics dealer helping Wylie homeowners check tap water contaminants and install whole-home and RO filtration. Call Today.",
+      "Mission Pure is a 5-star rated, authorized Gemline dealer helping Wylie homeowners check tap water contaminants and install whole-home and RO filtration. Call Today.",
     keywords:
       "Wylie water filtration, Wylie water filter, Wylie PFAS, Wylie whole home water filter, Wylie reverse osmosis, Mission Pure Wylie TX",
     utility: "North Texas Municipal Water District (NTMWD) via City of Wylie",
@@ -865,11 +865,11 @@ const CITY_DATA = [
     insights: [
       {
         title: "Lavon Lake sourcing",
-        body: "Wylie is served by NTMWD's Lavon Lake system. Seasonal byproducts and chloramine are well managed with whole-home Puronics catalytic carbon.",
+        body: "Wylie is served by NTMWD's Lavon Lake system. Seasonal byproducts and chloramine are well managed with whole-home Gemline KDC catalytic carbon filter.",
       },
       {
         title: "Hard water in growing suburbs",
-        body: "NTMWD water tends to be hard, which scales fixtures and shortens appliance life in Wylie's growing neighborhoods. Puronics conditioning media protects your investment.",
+        body: "NTMWD water tends to be hard, which scales fixtures and shortens appliance life in Wylie's growing neighborhoods. Gemline KDC filter media protects your investment.",
       },
       {
         title: "PFAS alerts",

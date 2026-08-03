@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2026-05-26T17:47:31.725Z",
+  "entries": [
+    {
+      "id": "fallback-arlington",
+      "sourceId": "mission-pure",
+      "sourceLabel": "Mission Pure Logs",
+      "city": "Arlington",
+      "title": "Arlington trihalomethanes trend upward heading into summer",
+      "summary": "Technician sampling along the Trinity River corridor shows TTHMs hovering around 2.4× our health guideline. Swapping catalytic carbon at year 4 keeps shower steam from smelling like a pool.",
+      "url": "arlington-irving-water-filtration.html",
+      "publishedAt": "2026-05-26T17:47:29.128Z",
+      "tags": [
+        "TTHM",
+        "chloramine"
+      ]
+    },
+    {
+      "id": "fallback-plano",
+      "sourceId": "mission-pure",
+      "sourceLabel": "Mission Pure Logs",
+      "city": "Plano",
+      "title": "Plano moms opt for whole-home + RO combo",
+      "summary": "Community Q&A revealed NTMWD chloramine taste during baby bottle prep. Families are pairing whole-home catalytic carbon with under-sink RO to keep PFAS and TTHMs out of the kitchen.",
+      "url": "frisco-plano-water-filtration.html",
+      "publishedAt": "2026-05-26T17:47:29.128Z",
+      "tags": [
+        "NTMWD",
+        "PFAS"
+      ]
+    },
+    {
+      "id": "fallback-mckinney",
+      "sourceId": "mission-pure",
+      "sourceLabel": "Mission Pure Logs",
+      "city": "McKinney",
+      "title": "Lead service line bypass keeps 75071 kitchen safe",
+      "summary": "We replaced a corroded service line feeding a 1990s home and routed drinking water through under-sink RO while the city finalizes a permanent upgrade.",
+      "url": "service-areas.html#metroGrid",
+      "publishedAt": "2026-05-26T17:47:29.128Z",
+      "tags": [
+        "lead",
+        "RO"
+      ]
+    }
+  ]
+}
