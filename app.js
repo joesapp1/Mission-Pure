@@ -1,10 +1,10 @@
-const APP_BUILD = "20260818123309";
+const APP_BUILD = "20260818123918";
 
 const STORAGE_KEY = `missionPure.waterLookup:${APP_BUILD}`;
 
-const DATASET_URL = "data/water-data.json?v=20260818123309";
-const DFW_ZIP_MAP_URL = "data/zip-to-utilities-dfw.json?v=20260818123309";
-const CHEM_INFO_URL = "data/chemical-info.json?v=20260818123309";
+const DATASET_URL = "data/water-data.json?v=20260818123918";
+const DFW_ZIP_MAP_URL = "data/zip-to-utilities-dfw.json?v=20260818123918";
+const CHEM_INFO_URL = "data/chemical-info.json?v=20260818123918";
 const HOT_SEARCH_FEED_URL = `data/trend-feed.json?v=${APP_BUILD}`;
 
 const ZIP_GEO_URL = "https://api.zippopotam.us/us/";
