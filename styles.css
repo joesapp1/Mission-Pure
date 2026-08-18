@@ -247,13 +247,24 @@ button, input, select, textarea { max-width: 100%; }
 }
 
 .brand-logo {
-  width: 92px;
-  height: 92px;
-  object-fit: contain;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  object-position: center top;
   border-radius: 0;
   background: transparent;
   border: none;
   padding: 0;
+}
+
+.brand-name {
+  font-size: 17px;
+  font-weight: 900;
+  color: #ffffff;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  line-height: 1;
+  margin-bottom: 3px;
 }
 
 .brand-text { min-width: 0; }
@@ -2078,8 +2089,8 @@ input:focus, select:focus, textarea:focus {
   }
 
   .brand-logo {
-    width: 64px;
-    height: 64px;
+    width: 46px;
+    height: 46px;
   }
 
   .brand-tagline {
